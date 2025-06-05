@@ -13,6 +13,9 @@ BATCH_SIZE = 10  # 每批翻译的条目数量（仅在禁用智能批处理时�
 USE_SMART_BATCHING = True  # 是否启用智能批处理（基于内容长度）
 MAX_CHARS_PER_REQUEST = 4000  # 每次API请求的最大字符数
 
+# 调试配置
+DEBUG = False  # 是否启用调试模式，输出详细的API交互信息
+
 # 文件路径
 PO_FILE_PATH = r"c:\Users\ZzxxH\Documents\Unreal Projects\SH\Easy Game UI.po"  # .po文件路径
 OUTPUT_FILE_PATH = None  # 输出文件路径，None表示覆盖原文件

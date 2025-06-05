@@ -9,7 +9,8 @@ import os
 import sys
 from po_translator import POTranslator
 
-def main():    # 尝试导入配置
+def main():
+    # 尝试导入配置
     try:
         import config
         api_key = config.DEEPSEEK_API_KEY
@@ -18,6 +19,7 @@ def main():    # 尝试导入配置
         batch_size = getattr(config, 'BATCH_SIZE', 10)
         max_chars_per_request = getattr(config, 'MAX_CHARS_PER_REQUEST', 4000)
         use_smart_batching = getattr(config, 'USE_SMART_BATCHING', True)
+        debug = getattr(config, 'DEBUG', False)
         po_file = config.PO_FILE_PATH
         output_file = getattr(config, 'OUTPUT_FILE_PATH', None)
     except ImportError:
@@ -27,7 +29,8 @@ def main():    # 尝试导入配置
     except AttributeError as e:
         print(f"错误：配置文件缺少必要的配置项: {e}")
         return False
-      # 验证配置
+    
+    # 验证配置
     if not api_key or api_key == "your_api_key_here":
         print("错误：请在config.py中设置有效的DEEPSEEK_API_KEY")
         return False
@@ -40,6 +43,7 @@ def main():    # 尝试导入配置
     print(f"文件路径: {po_file}")
     print(f"目标语言: {target_language}")
     print(f"智能批处理: {'启用' if use_smart_batching else '禁用'}")
+    print(f"调试模式: {'启用' if debug else '禁用'}")
     if use_smart_batching:
         print(f"最大字符数/请求: {max_chars_per_request}")
     else:
@@ -52,9 +56,8 @@ def main():    # 尝试导入配置
     if confirm not in ['y', 'yes', '是']:
         print("翻译已取消")
         return False
-    
-    # 初始化翻译器
-    translator = POTranslator(api_key, api_url, max_chars_per_request)
+      # 初始化翻译器
+    translator = POTranslator(api_key, api_url, max_chars_per_request, debug)
     
     try:
         # 解析PO文件

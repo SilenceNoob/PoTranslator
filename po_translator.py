@@ -28,7 +28,7 @@ class POEntry:
 
 
 class POTranslator:
-    def __init__(self, api_key: str = None, api_url: str = None, max_chars_per_request: int = 4000):
+    def __init__(self, api_key: str = None, api_url: str = None, max_chars_per_request: int = 4000, debug: bool = False):
         """
         初始化翻译器
         
@@ -36,10 +36,12 @@ class POTranslator:
             api_key: DeepSeek API密钥
             api_url: DeepSeek API URL，默认为官方API
             max_chars_per_request: 每次API请求的最大字符数
+            debug: 是否启用调试模式
         """
         self.api_key = api_key
         self.api_url = api_url or "https://api.deepseek.com/chat/completions"
         self.max_chars_per_request = max_chars_per_request
+        self.debug = debug
         self.entries: List[POEntry] = []
         
     def parse_po_file(self, file_path: str) -> List[POEntry]:
@@ -188,21 +190,23 @@ class POTranslator:
         Args:
             msgids: 待翻译的文本列表
             target_language: 目标语言
-            
-        Returns:
+              Returns:
             智能分组后的批次列表
         """
-        prompt_template = f"""请将以下文本翻译成{target_language}。文本之间用"|"分隔，请保持相同的分隔符格式返回翻译结果。
+        
+        prompt_template = f"""请将以下文本翻译成{target_language}。每个待翻译文本之间用"|"符号分隔，请在翻译结果中保持相同的"|"分隔格式。
 
 原文：
 {{combined_text}}
 
 翻译要求：
-1. 保持原有的格式和标点符号
-2. 如果是游戏界面相关的术语，请使用常见的游戏本地化翻译
-3. 保持专业和准确的翻译
-4. 用"|"分隔每个翻译结果
-5. 除了翻译结果外，不要输出任何其他多余文本内容
+1. "|"符号仅用于分隔不同的翻译条目，不要在单个条目内部使用"|"
+2. 保持每个条目内部的原有格式和标点符号（如逗号、冒号、括号等）
+3. 原文中的逗号在译文中应保持为逗号，不要替换为"|"分隔符
+4. 如果是游戏界面相关的术语，请使用常见的游戏本地化翻译
+5. 保持专业和准确的翻译，维护原文的内部结构完整性
+6. 用"|"分隔每个翻译结果，确保翻译结果数量与原文一致
+7. 除了翻译结果外，不要输出任何其他多余文文内容
 """
         
         batches = []
@@ -249,28 +253,31 @@ class POTranslator:
         # 检查批次大小
         combined_text = "|".join(msgids)
         if len(combined_text) > self.max_chars_per_request:
-            print(f"警告：批次内容过长（{len(combined_text)} 字符），可能导致API调用失败")
-        
-        # 构建翻译提示
-        prompt = f"""请将以下文本翻译成{target_language}。文本之间用"|"分隔，请保持相同的分隔符格式返回翻译结果。
+            print(f"警告：批次内容过长（{len(combined_text)} 字符），可能导致API调用失败")        # 构建翻译提示
+        prompt = f"""请将以下文本翻译成{target_language}。每个待翻译文本之间用"|"符号分隔，请在翻译结果中保持相同的"|"分隔格式。
 
 原文：
 {combined_text}
 
 翻译要求：
-1. 保持原有的格式和标点符号
-2. 如果是游戏界面相关的术语，请使用常见的游戏本地化翻译
-3. 保持专业和准确的翻译
-4. 用"|"分隔每个翻译结果
-5. 除了翻译结果外，不要输出任何其他多余文本内容
+1. "|"符号仅用于分隔不同的翻译条目，不要在单个条目内部使用"|"
+2. 保持每个条目内部的原有格式和标点符号（如逗号、冒号、括号等）
+3. 原文中的逗号在译文中应保持为逗号，不要替换为"|"分隔符
+4. 如果是游戏界面相关的术语，请使用常见的游戏本地化翻译
+5. 保持专业和准确的翻译，维护原文的内部结构完整性
+6. 用"|"分隔每个翻译结果，确保翻译结果数量与原文一致
+7. 除了翻译结果外，不要输出任何其他多余文本内容
+
+示例：
+原文: Name:{{name}}, Level:{{level}}|Health:{{hp}}, Mana:{{mp}}
+译文: 名称:{{name}}，等级:{{level}}|生命值:{{hp}}，魔法值:{{mp}}
 """
 
         headers = {
             "Authorization": f"Bearer {self.api_key}",
             "Content-Type": "application/json"
         }
-        
-        # 动态调整max_tokens基于输入长度
+          # 动态调整max_tokens基于输入长度
         estimated_output_tokens = self._estimate_token_count(combined_text) * 2  # 翻译通常比原文长
         max_tokens = min(max(estimated_output_tokens, 1000), 4000)  # 限制在1000-4000之间
         
@@ -289,14 +296,53 @@ class POTranslator:
         for attempt in range(retry_count):
             try:
                 print(f"  发送API请求（尝试 {attempt + 1}/{retry_count}）...")
+                
+                # Debug: 输出发送给AI的完整内容
+                if self.debug:
+                    print("=" * 50)
+                    print("🔍 [DEBUG] 发送给AI的完整内容:")
+                    print("-" * 50)
+                    print(f"模型: {data['model']}")
+                    print(f"温度: {data['temperature']}")
+                    print(f"最大token数: {data['max_tokens']}")
+                    print(f"请求内容:")
+                    print(prompt)
+                    print("=" * 50)
+                
                 response = requests.post(self.api_url, headers=headers, json=data, timeout=120)
                 response.raise_for_status()
                 
                 result = response.json()
                 translated_text = result["choices"][0]["message"]["content"].strip()
                 
+                # Debug: 输出AI的回应内容
+                if self.debug:
+                    print("=" * 50)
+                    print("🤖 [DEBUG] AI回应的完整内容:")
+                    print("-" * 50)
+                    print(f"原始回应:")
+                    print(translated_text)
+                    print("-" * 50)
+                    if "usage" in result:
+                        usage = result["usage"]
+                        print(f"Token使用情况:")
+                        print(f"  输入token: {usage.get('prompt_tokens', 'N/A')}")
+                        print(f"  输出token: {usage.get('completion_tokens', 'N/A')}")
+                        print(f"  总token: {usage.get('total_tokens', 'N/A')}")
+                    print("=" * 50)
+                
                 # 解析翻译结果
                 translations = self._parse_translation_result(translated_text, len(msgids))
+                
+                # Debug: 输出解析后的翻译结果
+                if self.debug:
+                    print("📝 [DEBUG] 解析后的翻译结果:")
+                    print("-" * 50)
+                    for i, (original, translation) in enumerate(zip(msgids, translations)):
+                        print(f"{i+1}. 原文: {original}")
+                        print(f"   译文: {translation}")
+                        print()
+                    print("=" * 50)
                 
                 print(f"  API调用成功，返回 {len(translations)} 个翻译结果")
                 return translations
@@ -493,6 +539,7 @@ def main():
     parser.add_argument("--language", default="中文", help="目标语言")
     parser.add_argument("--no-smart-batching", action="store_true", help="禁用智能批处理，使用固定批次大小")
     parser.add_argument("--dry-run", action="store_true", help="只解析文件，不进行翻译")
+    parser.add_argument("--debug", action="store_true", help="启用调试模式，输出详细的API交互信息")
     
     args = parser.parse_args()
     
@@ -501,7 +548,7 @@ def main():
         return
     
     # 初始化翻译器
-    translator = POTranslator(args.api_key, args.api_url, args.max_chars)
+    translator = POTranslator(args.api_key, args.api_url, args.max_chars, args.debug)
     
     # 解析PO文件
     print(f"正在解析文件: {args.po_file}")
