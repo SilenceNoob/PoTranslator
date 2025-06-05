@@ -1,0 +1,2185 @@
+﻿# Easy Game UI Chinese translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Easy Game UI\n"
+"POT-Creation-Date: 2025-06-04 16:15\n"
+"PO-Revision-Date: 2025-06-04 16:15\n"
+"Language-Team: \n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	B0A36F82483B2D428D3D6D97F85C2646
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/CommonWidgets/CommonSettings/WBP_EGUI_CommonSettingsMaster.Default__WBP_EGUI_CommonSettingsMaster_C.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/CommonWidgets/CommonSettings/WBP_EGUI_CommonSettingsMaster.Default__WBP_EGUI_CommonSettingsMaster_C.OptionTitle
+msgctxt ",B0A36F82483B2D428D3D6D97F85C2646"
+msgid "Default"
+msgstr "默认"
+
+#. Key:	6C08497644E42FB86D37439455723261
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/CommonWidgets/WBP_EGUI_CommonButton.Default__WBP_EGUI_CommonButton_C.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/CommonWidgets/WBP_EGUI_CommonButton.Default__WBP_EGUI_CommonButton_C.Text
+msgctxt ",6C08497644E42FB86D37439455723261"
+msgid "Default"
+msgstr "默认"
+
+#. Key:	A7A53C32415079578CC6C58584366B19
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/CommonWidgets/WBP_EGUI_CommonEditableTextBox.Default__WBP_EGUI_CommonEditableTextBox_C.HintText
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/CommonWidgets/WBP_EGUI_CommonEditableTextBox.Default__WBP_EGUI_CommonEditableTextBox_C.HintText
+msgctxt ",A7A53C32415079578CC6C58584366B19"
+msgid "Default"
+msgstr "默认"
+
+#. Key:	9AFF4D3B4B22E16A1A9701A213B70FC1
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/CommonWidgets/WBP_EGUI_CommonRichText.Default__WBP_EGUI_CommonRichText_C.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/CommonWidgets/WBP_EGUI_CommonRichText.Default__WBP_EGUI_CommonRichText_C.Text
+msgctxt ",9AFF4D3B4B22E16A1A9701A213B70FC1"
+msgid "Default"
+msgstr "默认"
+
+#. Key:	E15A0D674ED1DE88ED1753912E03D0A7
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/CommonWidgets/WBP_EGUI_CommonText.Default__WBP_EGUI_CommonText_C.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/CommonWidgets/WBP_EGUI_CommonText.Default__WBP_EGUI_CommonText_C.Text
+msgctxt ",E15A0D674ED1DE88ED1753912E03D0A7"
+msgid "Default"
+msgstr "默认"
+
+#. Key:	100B07E74CC3C60CD066A49B9D55393A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/GlobalConfig/DA_EGUI_DemoConfig.DA_EGUI_DemoConfig.KeybindMappingsContexts(0 - Value).KeybindMappingsContexts_Value
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/GlobalConfig/DA_EGUI_DemoConfig.DA_EGUI_DemoConfig.KeybindMappingsContexts(0 - Value).KeybindMappingsContexts_Value
+msgctxt ",100B07E74CC3C60CD066A49B9D55393A"
+msgid "On Foot"
+msgstr "步行"
+
+#. Key:	C70A69614C53F9C4ED8DF1BBB7DA2A0B
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyMainMenu.WBP_EasyMainMenu_C:ExecuteUbergraph_WBP_EasyMainMenu [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyMainMenu.WBP_EasyMainMenu_C:ExecuteUbergraph_WBP_EasyMainMenu [Script Bytecode]
+msgctxt ",C70A69614C53F9C4ED8DF1BBB7DA2A0B"
+msgid "Do you really want to exit the game?"
+msgstr "确定要退出游戏吗？"
+
+#. Key:	B8318465487B9DCF52514BBDF877FDE9
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyMainMenu.WBP_EasyMainMenu_C:GetNewestSaveSlot [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyMainMenu.WBP_EasyMainMenu_C:GetNewestSaveSlot [Script Bytecode]
+msgctxt ",B8318465487B9DCF52514BBDF877FDE9"
+msgid "{Date}"
+msgstr "{日期}"
+
+#. Key:	4F01CA4445DF1B578601A1928D335153
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyMainMenu.WBP_EasyMainMenu_C:WidgetTree.LoadSavegameButton.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyMainMenu.WBP_EasyMainMenu_C:WidgetTree.LoadSavegameButton.Text
+msgctxt ",4F01CA4445DF1B578601A1928D335153"
+msgid "Load Game"
+msgstr "载入游戏"
+
+#. Key:	5505A9154175F5EB698E58BCA837771C
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyMainMenu.WBP_EasyMainMenu_C:WidgetTree.NewGameButton.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyMainMenu.WBP_EasyMainMenu_C:WidgetTree.NewGameButton.Text
+msgctxt ",5505A9154175F5EB698E58BCA837771C"
+msgid "New Game"
+msgstr "新游戏"
+
+#. Key:	EF8DC3CE48146B90B5309EB56577EB70
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyMainMenu.WBP_EasyMainMenu_C:WidgetTree.PressKeyText.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyMainMenu.WBP_EasyMainMenu_C:WidgetTree.PressKeyText.Text
+msgctxt ",EF8DC3CE48146B90B5309EB56577EB70"
+msgid "PRESS ANY KEY"
+msgstr "按任意键"
+
+#. Key:	0C44B2044E15A0E39FB7759CDB5F6BDB
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyMainMenu.WBP_EasyMainMenu_C:WidgetTree.WBP_URLButton.ButtonTextValue
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyMainMenu.WBP_EasyMainMenu_C:WidgetTree.WBP_URLButton.ButtonTextValue
+msgctxt ",0C44B2044E15A0E39FB7759CDB5F6BDB"
+msgid "Discord"
+msgstr "Discord"
+
+#. Key:	29AB81CB4C7DF385A418AF972ED0109F
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:ExecuteUbergraph_WBP_EasyPauseMenu [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:ExecuteUbergraph_WBP_EasyPauseMenu [Script Bytecode]
+msgctxt ",29AB81CB4C7DF385A418AF972ED0109F"
+msgid "Do you want to load this save file ?"
+msgstr "是否载入该存档？"
+
+#. Key:	912BAC12459399334631F383E940317C
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:ExecuteUbergraph_WBP_EasyPauseMenu [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:ExecuteUbergraph_WBP_EasyPauseMenu [Script Bytecode]
+msgctxt ",912BAC12459399334631F383E940317C"
+msgid "Do you really want to quit?\r\nAny unsaved progress will be lost."
+msgstr "确定要退出吗？\r\n所有未保存的进度都将丢失。"
+
+#. Key:	A3315F004D65DD410B96F29452438CBB
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:WidgetTree.LoadSavegameButton.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:WidgetTree.LoadSavegameButton.Text
+msgctxt ",A3315F004D65DD410B96F29452438CBB"
+msgid "Load Game"
+msgstr "载入游戏"
+
+#. Key:	82C830BF4166FE9AD07F3CA8FDEB77AC
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:WidgetTree.PhotoModeBtn.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:WidgetTree.PhotoModeBtn.Text
+msgctxt ",82C830BF4166FE9AD07F3CA8FDEB77AC"
+msgid "Photo Mode"
+msgstr "拍照模式"
+
+#. Key:	C12F178446B865B5B20CC1A5E55E3F10
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:WidgetTree.QuickLoadButton.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:WidgetTree.QuickLoadButton.Text
+msgctxt ",C12F178446B865B5B20CC1A5E55E3F10"
+msgid "Quick Reload"
+msgstr "快速重载"
+
+#. Key:	B646BAD943DB61E9F822F3996A2DEC07
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:WidgetTree.QuitMainMenuBtn.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:WidgetTree.QuitMainMenuBtn.Text
+msgctxt ",B646BAD943DB61E9F822F3996A2DEC07"
+msgid "Quit To Title Screen"
+msgstr "退回标题画面"
+
+#. Key:	B25349E94039463D26C540AE0724B35C
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:WidgetTree.SaveSavegameButton.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/Core/Widgets/WBP_EasyPauseMenu.WBP_EasyPauseMenu_C:WidgetTree.SaveSavegameButton.Text
+msgctxt ",B25349E94039463D26C540AE0724B35C"
+msgid "Save Game"
+msgstr "保存游戏"
+
+#. Key:	Button_Apply
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Button_Apply"
+msgid "Apply"
+msgstr "应用"
+
+#. Key:	Button_Back
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Button_Back"
+msgid "Back"
+msgstr "返回"
+
+#. Key:	Button_Cancel
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Button_Cancel"
+msgid "Cancel"
+msgstr "取消"
+
+#. Key:	Button_Continue
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Button_Continue"
+msgid "Continue"
+msgstr "继续"
+
+#. Key:	Button_Credits
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Button_Credits"
+msgid "Credits"
+msgstr "制作名单"
+
+#. Key:	Button_Load
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Button_Load"
+msgid "Load"
+msgstr "读取"
+
+#. Key:	Button_OptionsMenu
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Button_OptionsMenu"
+msgid "Options"
+msgstr "选项"
+
+#. Key:	Button_Quit
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Button_Quit"
+msgid "Quit"
+msgstr "退出"
+
+#. Key:	Button_Reset
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Button_Reset"
+msgid "Reset"
+msgstr "重置"
+
+#. Key:	Button_Select
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Button_Select"
+msgid "Select"
+msgstr "选择"
+
+#. Key:	High_Quality_Setting
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,High_Quality_Setting"
+msgid "High"
+msgstr "高"
+
+#. Key:	Low_Quality_Setting
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Low_Quality_Setting"
+msgid "Low"
+msgstr "低"
+
+#. Key:	Medium_Quality_Setting
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Medium_Quality_Setting"
+msgid "Medium"
+msgstr "中"
+
+#. Key:	Off_Setting
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Off_Setting"
+msgid "Off"
+msgstr "关闭"
+
+#. Key:	On_Setting
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,On_Setting"
+msgid "On"
+msgstr "开启"
+
+#. Key:	Ultra_Quality_Setting
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Ultra_Quality_Setting"
+msgid "Ultra"
+msgstr "极致"
+
+#. Key:	Upscaling_Balanced
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Upscaling_Balanced"
+msgid "Balanced"
+msgstr "平衡"
+
+#. Key:	Upscaling_Performance
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Upscaling_Performance"
+msgid "Performance"
+msgstr "性能模式"
+
+#. Key:	Upscaling_Quality
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Upscaling_Quality"
+msgid "Quality"
+msgstr "质量模式"
+
+#. Key:	Upscaling_UltraPerformance
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Upscaling_UltraPerformance"
+msgid "Ultra Performance"
+msgstr "极致性能"
+
+#. Key:	Upscaling_UltraQuality
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+#: /Game/ThirdPartyAssets/EasyGameUI/Datas/ST_EasyGameUICommon.ST_EasyGameUICommon
+msgctxt "ST_EasyGameUICommon,Upscaling_UltraQuality"
+msgid "Ultra Quality"
+msgstr "极致画质"
+
+#. Key:	15631C764C6435E301663D9873AA66CB
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_0.DisplayCategory
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_0.DisplayCategory
+msgctxt ",15631C764C6435E301663D9873AA66CB"
+msgid "Movement"
+msgstr "移动"
+
+#. Key:	A23DF1D046DE2CF55354929C16AA3522
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_0.DisplayName
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_0.DisplayName
+msgctxt ",A23DF1D046DE2CF55354929C16AA3522"
+msgid "Move Forward"
+msgstr "向前移动"
+
+#. Key:	E4612CD4436241B2E9436AA621264E7A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_1.DisplayCategory
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_1.DisplayCategory
+msgctxt ",E4612CD4436241B2E9436AA621264E7A"
+msgid "Movement"
+msgstr "移动"
+
+#. Key:	382BF14F4D1EDF7A4D6E52B40E18DD69
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_1.DisplayName
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_1.DisplayName
+msgctxt ",382BF14F4D1EDF7A4D6E52B40E18DD69"
+msgid "Move Left"
+msgstr "向左移动"
+
+#. Key:	0AEB5C4243E16F878282BFB3E3E2E4CD
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_10.DisplayCategory
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_10.DisplayCategory
+msgctxt ",0AEB5C4243E16F878282BFB3E3E2E4CD"
+msgid "Saving"
+msgstr "保存中"
+
+#. Key:	E63F51F24AFF32F3C283BEB4D7F51AAA
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_10.DisplayName
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_10.DisplayName
+msgctxt ",E63F51F24AFF32F3C283BEB4D7F51AAA"
+msgid "Quick Save"
+msgstr "快速保存"
+
+#. Key:	AC8A66A046B31B27CAEBD3989FE09EE5
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_11.DisplayCategory
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_11.DisplayCategory
+msgctxt ",AC8A66A046B31B27CAEBD3989FE09EE5"
+msgid "Saving"
+msgstr "读取中"
+
+#. Key:	6C642A0C4EAE91DBF98EBD832938924F
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_11.DisplayName
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_11.DisplayName
+msgctxt ",6C642A0C4EAE91DBF98EBD832938924F"
+msgid "Quick Load"
+msgstr "快速载入"
+
+#. Key:	8CC994914B1C6F036BB17AAA85BC9BD2
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_2.DisplayCategory
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_2.DisplayCategory
+msgctxt ",8CC994914B1C6F036BB17AAA85BC9BD2"
+msgid "Movement"
+msgstr "移动"
+
+#. Key:	275EF77641F18BD27268C1B54CFCDB25
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_2.DisplayName
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_2.DisplayName
+msgctxt ",275EF77641F18BD27268C1B54CFCDB25"
+msgid "Move Backward"
+msgstr "向后移动"
+
+#. Key:	0E4474C64733BF15BE9645B5CD202DA3
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_3.DisplayCategory
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_3.DisplayCategory
+msgctxt ",0E4474C64733BF15BE9645B5CD202DA3"
+msgid "Movement"
+msgstr "移动"
+
+#. Key:	8CC59CAB4B7E91275AB7B492BBD2CDDA
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_3.DisplayName
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_3.DisplayName
+msgctxt ",8CC59CAB4B7E91275AB7B492BBD2CDDA"
+msgid "Move Right"
+msgstr "向右移动"
+
+#. Key:	F1692A904DAFB376BC55D6A3FE7AE73C
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_4.DisplayCategory
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_4.DisplayCategory
+msgctxt ",F1692A904DAFB376BC55D6A3FE7AE73C"
+msgid "Movement"
+msgstr "移动"
+
+#. Key:	65DADAD144F5B61C2606D4B992E2D74E
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_4.DisplayName
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_4.DisplayName
+msgctxt ",65DADAD144F5B61C2606D4B992E2D74E"
+msgid "Sprint"
+msgstr "冲刺"
+
+#. Key:	3172484349DB37041D1A109E3DE28A53
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_5.DisplayCategory
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_5.DisplayCategory
+msgctxt ",3172484349DB37041D1A109E3DE28A53"
+msgid "Movement"
+msgstr "移动"
+
+#. Key:	26FCE84C41F36BD2E635D2A7040FFFF2
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_5.DisplayName
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_5.DisplayName
+msgctxt ",26FCE84C41F36BD2E635D2A7040FFFF2"
+msgid "Sprint"
+msgstr "冲刺"
+
+#. Key:	AB047F16427E6828B188C9B4628F09BF
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_6.DisplayCategory
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_6.DisplayCategory
+msgctxt ",AB047F16427E6828B188C9B4628F09BF"
+msgid "World"
+msgstr "世界"
+
+#. Key:	CF2B236C4DCEC5CD54C83996883B6BB1
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_6.DisplayName
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_6.DisplayName
+msgctxt ",CF2B236C4DCEC5CD54C83996883B6BB1"
+msgid "Interact"
+msgstr "互动"
+
+#. Key:	A397A32348FD33F81DE588A6CA3E61CF
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_7.DisplayCategory
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_7.DisplayCategory
+msgctxt ",A397A32348FD33F81DE588A6CA3E61CF"
+msgid "World"
+msgstr "世界"
+
+#. Key:	75842CFD433E1EF222F1CF91C08733FF
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_7.DisplayName
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_7.DisplayName
+msgctxt ",75842CFD433E1EF222F1CF91C08733FF"
+msgid "Toggle Photo Mode"
+msgstr "切换拍照模式"
+
+#. Key:	845EE8C14DCE8013737227B1D5259E39
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_8.DisplayCategory
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_8.DisplayCategory
+msgctxt ",845EE8C14DCE8013737227B1D5259E39"
+msgid "World"
+msgstr "世界"
+
+#. Key:	1E39934D4E2CCEE37D3460B17668F07D
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_8.DisplayName
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_8.DisplayName
+msgctxt ",1E39934D4E2CCEE37D3460B17668F07D"
+msgid "Interact"
+msgstr "互动"
+
+#. Key:	0446FE4643F0BA43EE8DBC877CFD1CA4
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_9.DisplayCategory
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_9.DisplayCategory
+msgctxt ",0446FE4643F0BA43EE8DBC877CFD1CA4"
+msgid "World"
+msgstr "世界"
+
+#. Key:	B322EA624DA955AB857325B0FC8C9B0E
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_9.DisplayName
+#: /Game/ThirdPartyAssets/EasyGameUI/DemoContent/Inputs/IMC_DemoMainGameInputs.IMC_DemoMainGameInputs:PlayerMappableKeySettings_9.DisplayName
+msgctxt ",B322EA624DA955AB857325B0FC8C9B0E"
+msgid "Toggle Photo Mode"
+msgstr "切换拍照模式"
+
+#. Key:	B8350B0B42AAC10E50B17C97309B4C62
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkOverlay.WBP_EGB_BenchmarkOverlay_C:WidgetTree.FPSHeader.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkOverlay.WBP_EGB_BenchmarkOverlay_C:WidgetTree.FPSHeader.Text
+msgctxt ",B8350B0B42AAC10E50B17C97309B4C62"
+msgid "FPS"
+msgstr "帧率"
+
+#. Key:	F30E031349195858026402AAE3D7AEFD
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkOverlay.WBP_EGB_BenchmarkOverlay_C:WidgetTree.StopBenchBtn.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkOverlay.WBP_EGB_BenchmarkOverlay_C:WidgetTree.StopBenchBtn.Text
+msgctxt ",F30E031349195858026402AAE3D7AEFD"
+msgid "Stop Benchmark"
+msgstr "停止基准测试"
+
+#. Key:	871BEE6D40D069C5400B09AA7E1EC611
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:ExecuteUbergraph_WBP_EGB_BenchmarkResult [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:ExecuteUbergraph_WBP_EGB_BenchmarkResult [Script Bytecode]
+msgctxt ",871BEE6D40D069C5400B09AA7E1EC611"
+msgid "No Data"
+msgstr "无数据"
+
+#. Key:	CCF55A184E137818C87CBE832EE60CCD
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.01PercentFPSHeader.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.01PercentFPSHeader.Text
+msgctxt ",CCF55A184E137818C87CBE832EE60CCD"
+msgid "0.1% Lows FPS"
+msgstr "0.1%最低帧"
+
+#. Key:	791425ED42528A6B1DC254B0E35EB553
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.1PercentFPSHeader.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.1PercentFPSHeader.Text
+msgctxt ",791425ED42528A6B1DC254B0E35EB553"
+msgid "1% Lows FPS"
+msgstr "1%最低帧"
+
+#. Key:	C084F54943D70A0FAFFF3CB2BBFC87BA
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.AvgFPSHeader.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.AvgFPSHeader.Text
+msgctxt ",C084F54943D70A0FAFFF3CB2BBFC87BA"
+msgid "Average FPS"
+msgstr "平均帧率"
+
+#. Key:	73AE1B194364A6A26848FE884A205C0A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.FPSLegendText.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.FPSLegendText.Text
+msgctxt ",73AE1B194364A6A26848FE884A205C0A"
+msgid "F\r\nP\r\nS"
+msgstr "帧\r\n率"
+
+#. Key:	DD9E2B9A48C91736815FD18F6E8BE736
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.LoadingText.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.LoadingText.Text
+msgctxt ",DD9E2B9A48C91736815FD18F6E8BE736"
+msgid "Loading..."
+msgstr "加载中..."
+
+#. Key:	365A7AE94B6769A5E5E8E5BD17D87EEB
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.MaxFPSHeader.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.MaxFPSHeader.Text
+msgctxt ",365A7AE94B6769A5E5E8E5BD17D87EEB"
+msgid "Maximum FPS"
+msgstr "最高帧率"
+
+#. Key:	C5C3E7CF4C5A87008A90D39A963F6FE0
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.OptionsBtn.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.OptionsBtn.Text
+msgctxt ",C5C3E7CF4C5A87008A90D39A963F6FE0"
+msgid "Options"
+msgstr "选项"
+
+#. Key:	42661D9C4133FE344BA9F184950076A1
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.RestartBtn.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.RestartBtn.Text
+msgctxt ",42661D9C4133FE344BA9F184950076A1"
+msgid "Restart"
+msgstr "重新开始"
+
+#. Key:	CA8E99334C2B7F2621EC4EB9302B586C
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.TimeLegendText.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.TimeLegendText.Text
+msgctxt ",CA8E99334C2B7F2621EC4EB9302B586C"
+msgid "Time"
+msgstr "时间"
+
+#. Key:	5D764B2A41F5957606EDD4AA00CC57BF
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.TitleText.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameBenchmark/WBP_EGB_BenchmarkResult.WBP_EGB_BenchmarkResult_C:WidgetTree.TitleText.Text
+msgctxt ",5D764B2A41F5957606EDD4AA00CC57BF"
+msgid "Benchmark Result"
+msgstr "基准测试结果"
+
+#. Key:	3CE44CDE4C139C7EAEF32AA0F95E9B5E
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameCredits/WBP_EasyGameCreditsMain.WBP_EasyGameCreditsMain_C:WidgetTree.BackBtnInput.TextToDisplay
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameCredits/WBP_EasyGameCreditsMain.WBP_EasyGameCreditsMain_C:WidgetTree.BackBtnInput.TextToDisplay
+msgctxt ",3CE44CDE4C139C7EAEF32AA0F95E9B5E"
+msgid "Skip"
+msgstr "跳过"
+
+#. Key:	7FBCD35E4452FF1F13E2609E56186505
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyGameCredits/WBP_EasyGameCreditsMain.WBP_EasyGameCreditsMain_C:WidgetTree.ResetBtnInput.TextToDisplay
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyGameCredits/WBP_EasyGameCreditsMain.WBP_EasyGameCreditsMain_C:WidgetTree.ResetBtnInput.TextToDisplay
+msgctxt ",7FBCD35E4452FF1F13E2609E56186505"
+msgid "Speed Up"
+msgstr "加速"
+
+#. Key:	024D2E524E5E72377ED3E09AE468AA18
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/SettingsWidgets/WBP_EOM_SettingKeybinding.WBP_EOM_SettingKeybinding_C:TryToRemapKeybindWithNewKey [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/SettingsWidgets/WBP_EOM_SettingKeybinding.WBP_EOM_SettingKeybinding_C:TryToRemapKeybindWithNewKey [Script Bytecode]
+msgctxt ",024D2E524E5E72377ED3E09AE468AA18"
+msgid "Error: {New Key} can't be bound to '{Modified Mapping}'.\r\n\r\n{Previous History}"
+msgstr "错误：无法将{新按键}绑定至'{修改映射}'。\r\n\r\n{历史记录}"
+
+#. Key:	280CF25F4183747F7CE84CBB826B4DB8
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/SettingsWidgets/WBP_EOM_SettingKeybinding.WBP_EOM_SettingKeybinding_C:TryToRemapKeybindWithNewKey [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/SettingsWidgets/WBP_EOM_SettingKeybinding.WBP_EOM_SettingKeybinding_C:TryToRemapKeybindWithNewKey [Script Bytecode]
+msgctxt ",280CF25F4183747F7CE84CBB826B4DB8"
+msgid "{New Key} bound to '{Modified Mapping}'."
+msgstr "{新按键}已绑定至'{修改映射}'。"
+
+#. Key:	C93FA45B437C8A694FB0549E94851CAE
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/SettingsWidgets/WBP_EOM_SettingKeybinding.WBP_EOM_SettingKeybinding_C:TryToRemapKeybindWithNewKey [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/SettingsWidgets/WBP_EOM_SettingKeybinding.WBP_EOM_SettingKeybinding_C:TryToRemapKeybindWithNewKey [Script Bytecode]
+msgctxt ",C93FA45B437C8A694FB0549E94851CAE"
+msgid "{New Key} bound to '{Modified Mapping}'.\r\n\r\n{Previous History}"
+msgstr "{新按键}已绑定至'{修改映射}'。\r\n\r\n{历史记录}"
+
+#. Key:	CC5C51904545CD17927540A4D02429E9
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/SettingsWidgets/WBP_EOM_SettingKeybinding.WBP_EOM_SettingKeybinding_C:TryToRemapKeybindWithNewKey [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/SettingsWidgets/WBP_EOM_SettingKeybinding.WBP_EOM_SettingKeybinding_C:TryToRemapKeybindWithNewKey [Script Bytecode]
+msgctxt ",CC5C51904545CD17927540A4D02429E9"
+msgid "{New Key Mapping Message}\r\nMapping conflict: {Conflicted Key} from '{Conflicted Mapping Name}' has been replaced with {Current Key} from '{Modified Mapping}'.\r\n\r\n{Previous History}"
+msgstr "{新按键映射信息}\r\n按键冲突：来自'{冲突映射名称}'的{冲突按键}已被替换为来自'{修改映射}'的{当前按键}。\r\n\r\n{历史记录}"
+
+#. Key:	DE625F30481B89BD35B3DFB3431B4363
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/SettingsWidgets/WBP_EOM_SettingKeybinding.WBP_EOM_SettingKeybinding_C:TryToRemapKeybindWithNewKey [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/SettingsWidgets/WBP_EOM_SettingKeybinding.WBP_EOM_SettingKeybinding_C:TryToRemapKeybindWithNewKey [Script Bytecode]
+msgctxt ",DE625F30481B89BD35B3DFB3431B4363"
+msgid "Changes History"
+msgstr "更改历史"
+
+#. Key:	837C6DAF496F237108A24784B8C63E59
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/SettingsWidgets/WBP_EOM_SettingsMaster.Default__WBP_EOM_SettingsMaster_C.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/SettingsWidgets/WBP_EOM_SettingsMaster.Default__WBP_EOM_SettingsMaster_C.OptionTitle
+msgctxt ",837C6DAF496F237108A24784B8C63E59"
+msgid "Default"
+msgstr "默认"
+
+#. Key:	12F2C6DB4F405ED3D6580CACF38335CC
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",12F2C6DB4F405ED3D6580CACF38335CC"
+msgid "Some settings have unsaved modifications.\r\nDo you really want to close ?"
+msgstr "部分设置存在未保存的修改。\r\n确定要关闭吗？"
+
+#. Key:	13DCAF84425E6832EED2D58D1802F30D
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",13DCAF84425E6832EED2D58D1802F30D"
+msgid "Do you really want to reset settings ?\r\nAny action is definitive."
+msgstr "确定要重置设置吗？\r\n此操作不可撤销。"
+
+#. Key:	1C8AD2DE49A2F481655FB886932D914F
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",1C8AD2DE49A2F481655FB886932D914F"
+msgid "Reset '{TabName}' Tab"
+msgstr "重置'{标签页名称}'标签页"
+
+#. Key:	1CAAE1854BDB1C999FAF9EADA8B8F736
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",1CAAE1854BDB1C999FAF9EADA8B8F736"
+msgid "FSR Native AA"
+msgstr "FSR原生抗锯齿"
+
+#. Key:	219B31E044F713744A17C8BD949D0A21
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",219B31E044F713744A17C8BD949D0A21"
+msgid "Revert"
+msgstr "恢复"
+
+#. Key:	2EE10A5F464F01A9891EFDADF10C28B0
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",2EE10A5F464F01A9891EFDADF10C28B0"
+msgid "XeSS Native AA"
+msgstr "XeSS原生抗锯齿"
+
+#. Key:	3B3A42F044406AC8257372BBEFCBDDE6
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",3B3A42F044406AC8257372BBEFCBDDE6"
+msgid "AMD FSR"
+msgstr "AMD FSR"
+
+#. Key:	9A699AB24AABD4AB98DEDA8309AE869A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",9A699AB24AABD4AB98DEDA8309AE869A"
+msgid "Reset '{SettingName}'"
+msgstr "重置'{设置名称}'"
+
+#. Key:	D680AD7A4CBF4FC4705FA2A0EDEDC8D7
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",D680AD7A4CBF4FC4705FA2A0EDEDC8D7"
+msgid "Intel XeSS"
+msgstr "Intel XeSS"
+
+#. Key:	DC450525416E788B5A41D2AA37137480
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",DC450525416E788B5A41D2AA37137480"
+msgid "A resolution change has been detected.\r\nDo you want to keep this change?"
+msgstr "检测到分辨率变更。\r\n是否保留此更改？"
+
+#. Key:	DF17B25D450A2ED29EF3DC80B9B055A2
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",DF17B25D450A2ED29EF3DC80B9B055A2"
+msgid "Nvidia DLSS"
+msgstr "英伟达DLSS"
+
+#. Key:	E0C1E1564A6A3EB82AA03788A4F0AC5C
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",E0C1E1564A6A3EB82AA03788A4F0AC5C"
+msgid "Do you really want to start a benchmark? \r\nAny unsaved progress or settings will be discarded."
+msgstr "确定要开始基准测试吗？\r\n所有未保存的进度或设置将被丢弃。"
+
+#. Key:	E3AF4C604E60A5EF6062B18833383631
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",E3AF4C604E60A5EF6062B18833383631"
+msgid "Reset All"
+msgstr "全部重置"
+
+#. Key:	FCD8FC8B41D2907DF00C26A52FC0A474
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ExecuteUbergraph_WBP_EasyOptionsMenuMain [Script Bytecode]
+msgctxt ",FCD8FC8B41D2907DF00C26A52FC0A474"
+msgid "DLAA"
+msgstr "DLAA"
+
+#. Key:	C08FAEE0429DBE681A8CE994B776B9E0
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ShowOrHideResetTooltip [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:ShowOrHideResetTooltip [Script Bytecode]
+msgctxt ",C08FAEE0429DBE681A8CE994B776B9E0"
+msgid "Reset to Default value '{text}'"
+msgstr "重置为默认值'{文本}'"
+
+#. Key:	A685953B41E2D2D367C72B9D8094BDBF
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAMethodSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAMethodSetting.OptionDescription
+msgctxt ",A685953B41E2D2D367C72B9D8094BDBF"
+msgid "Select the method used to remove aliasing and jagged edges in the game.\r\n\r\nUpscaling Method must be set to Off to adjust this setting manually,"
+msgstr "选择用于消除游戏中锯齿和毛边的方法。\r\n\r\n需将升频方法设为关闭才能手动调整此设置。"
+
+#. Key:	5F6A3CC449FC36A2383C17A3EB7A0BA6
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAMethodSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAMethodSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",5F6A3CC449FC36A2383C17A3EB7A0BA6"
+msgid "FXAA"
+msgstr "FXAA"
+
+#. Key:	D2A6FADB4658C4BAC3CCF49BBF5C8B74
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAMethodSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAMethodSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",D2A6FADB4658C4BAC3CCF49BBF5C8B74"
+msgid "TAA"
+msgstr "TAA"
+
+#. Key:	13B3E7154972B041EFC6B0B388A2965B
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAMethodSetting.OptionsValues(3).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAMethodSetting.OptionsValues(3).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",13B3E7154972B041EFC6B0B388A2965B"
+msgid "TSR AA"
+msgstr "TSR抗锯齿"
+
+#. Key:	32C380C44D41EE8DD422B9B8F35C637F
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAMethodSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAMethodSetting.OptionTitle
+msgctxt ",32C380C44D41EE8DD422B9B8F35C637F"
+msgid "Anti Aliasing Method"
+msgstr "抗锯齿方法"
+
+#. Key:	17B6A6DD4E04CB2B757A36AED4580EAA
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAQualitySetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAQualitySetting.OptionDescription
+msgctxt ",17B6A6DD4E04CB2B757A36AED4580EAA"
+msgid "Adjust the quality of the choosen anti aliasing method."
+msgstr "调整所选抗锯齿方法的品质。"
+
+#. Key:	069C0D4F4A26CC322D87BE8926B270A0
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAQualitySetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AAQualitySetting.OptionTitle
+msgctxt ",069C0D4F4A26CC322D87BE8926B270A0"
+msgid "Anti Aliasing Quality"
+msgstr "抗锯齿质量"
+
+#. Key:	0B743EBA4B681BBD2941D19E5B16F4CE
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AmbientAudioSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AmbientAudioSetting.OptionDescription
+msgctxt ",0B743EBA4B681BBD2941D19E5B16F4CE"
+msgid "Adjust the volume for the ambient sounds of the environment."
+msgstr "调整环境音效的音量。"
+
+#. Key:	DDEB29954589E8A0D7483FA5C9EB3096
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AmbientAudioSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AmbientAudioSetting.OptionTitle
+msgctxt ",DDEB29954589E8A0D7483FA5C9EB3096"
+msgid "Ambient Audio Volume"
+msgstr "环境音效音量"
+
+#. Key:	29D7299E425E83EA1F1F4DB2782200B9
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AudioDeviceSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AudioDeviceSetting.OptionDescription
+msgctxt ",29D7299E425E83EA1F1F4DB2782200B9"
+msgid "Select which audio output device is used by the game."
+msgstr "选择游戏使用的音频输出设备。"
+
+#. Key:	45DA659D4466F2A7D3A2F3AA9207F819
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AudioDeviceSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.AudioDeviceSetting.OptionTitle
+msgctxt ",45DA659D4466F2A7D3A2F3AA9207F819"
+msgid "Audio Output Device"
+msgstr "音频输出设备"
+
+#. Key:	DE0F4D4942EEFFBC0E78AB99DFAE76CA
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.BenchmarkBtn.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.BenchmarkBtn.Text
+msgctxt ",DE0F4D4942EEFFBC0E78AB99DFAE76CA"
+msgid "Benchmark"
+msgstr "基准测试"
+
+#. Key:	F1F951134FB84311FAFC738A3282CA79
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.CameraCategory.Name
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.CameraCategory.Name
+msgctxt ",F1F951134FB84311FAFC738A3282CA79"
+msgid "Camera"
+msgstr "镜头"
+
+#. Key:	27C25D834E008644AA9265BAE873B315
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.CameraFOVSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.CameraFOVSetting.OptionDescription
+msgctxt ",27C25D834E008644AA9265BAE873B315"
+msgid "Adjust the camera field of view (FOV)"
+msgstr "调整镜头视野范围(FOV)"
+
+#. Key:	AD982F264B9583FB02368A97891BF0BC
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.CameraFOVSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.CameraFOVSetting.OptionTitle
+msgctxt ",AD982F264B9583FB02368A97891BF0BC"
+msgid "Camera Field of View"
+msgstr "镜头视野范围"
+
+#. Key:	0F767ECE4507B29C58338F840B7F50E9
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.CameraSensivitySetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.CameraSensivitySetting.OptionDescription
+msgctxt ",0F767ECE4507B29C58338F840B7F50E9"
+msgid "Adjust the sensitivity of camera movements when using a mouse."
+msgstr "调整使用鼠标时的镜头移动灵敏度。"
+
+#. Key:	625F42584059E371D798A1BC2D7A1223
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.CameraSensivitySetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.CameraSensivitySetting.OptionTitle
+msgctxt ",625F42584059E371D798A1BC2D7A1223"
+msgid "Mouse Camera Sensitivity"
+msgstr "鼠标镜头灵敏度"
+
+#. Key:	5A90FB444CA29C94AF61C1BFFAC7C2FE
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessCorrectionIntensitySetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessCorrectionIntensitySetting.OptionDescription
+msgctxt ",5A90FB444CA29C94AF61C1BFFAC7C2FE"
+msgid "Adjust the intensity of the color correction applied to the image."
+msgstr "调整应用于画面的色彩校正强度。"
+
+#. Key:	E70F97A44D9AED1CFFB03C8E03BF22CB
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessCorrectionIntensitySetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessCorrectionIntensitySetting.OptionTitle
+msgctxt ",E70F97A44D9AED1CFFB03C8E03BF22CB"
+msgid "Color Correction Intensity"
+msgstr "色彩校正强度"
+
+#. Key:	E0BB64484B7F4A435971F0AC7C7B7900
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionDescription
+msgctxt ",E0BB64484B7F4A435971F0AC7C7B7900"
+msgid "Select which type of color correction needs to be applied by the game to ensure proper color reproduction."
+msgstr "选择游戏需要应用哪种色彩校正类型以确保准确的色彩还原。"
+
+#. Key:	C12289074A09CFA3C6CF06B30E1796FB
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(0).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(0).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",C12289074A09CFA3C6CF06B30E1796FB"
+msgid "None"
+msgstr "无"
+
+#. Key:	262FCF2A4206F89E5476F69C4112AE97
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(1).OptionsValues.AdditionalDescription_18_636C689F4C8C1EB26D9843A11FA1D124.AdditionalText_3_1858B1454053919068BF4C8107E513AD
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(1).OptionsValues.AdditionalDescription_18_636C689F4C8C1EB26D9843A11FA1D124.AdditionalText_3_1858B1454053919068BF4C8107E513AD
+msgctxt ",262FCF2A4206F89E5476F69C4112AE97"
+msgid "Deficiency to see green colors"
+msgstr "绿色色觉缺陷"
+
+#. Key:	7485B3CA47B7790C0D3772B27CB88DEC
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",7485B3CA47B7790C0D3772B27CB88DEC"
+msgid "Deuteranope"
+msgstr "绿色盲"
+
+#. Key:	086FD11241F456D6EB166996A63A9129
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(2).OptionsValues.AdditionalDescription_18_636C689F4C8C1EB26D9843A11FA1D124.AdditionalText_3_1858B1454053919068BF4C8107E513AD
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(2).OptionsValues.AdditionalDescription_18_636C689F4C8C1EB26D9843A11FA1D124.AdditionalText_3_1858B1454053919068BF4C8107E513AD
+msgctxt ",086FD11241F456D6EB166996A63A9129"
+msgid "Deficiency to see red colors"
+msgstr "红色色觉缺陷"
+
+#. Key:	1BE33C9141A3DA84367A839AF693744A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",1BE33C9141A3DA84367A839AF693744A"
+msgid "Protanope"
+msgstr "红色盲"
+
+#. Key:	CCB78B234447A1AF4C20DAA1ECF6A073
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(3).OptionsValues.AdditionalDescription_18_636C689F4C8C1EB26D9843A11FA1D124.AdditionalText_3_1858B1454053919068BF4C8107E513AD
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(3).OptionsValues.AdditionalDescription_18_636C689F4C8C1EB26D9843A11FA1D124.AdditionalText_3_1858B1454053919068BF4C8107E513AD
+msgctxt ",CCB78B234447A1AF4C20DAA1ECF6A073"
+msgid "Deficiency to see blue colors"
+msgstr "蓝色色觉缺陷"
+
+#. Key:	3AF1D4AF4C4CBCF2889452891B3F1D4A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(3).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionsValues(3).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",3AF1D4AF4C4CBCF2889452891B3F1D4A"
+msgid "Tritanope"
+msgstr "蓝色盲"
+
+#. Key:	6C4E1F5947EC889DB697C498FBD97E53
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ColorBlindnessTypeSetting.OptionTitle
+msgctxt ",6C4E1F5947EC889DB697C498FBD97E53"
+msgid "Color Correction Type"
+msgstr "色彩校正类型"
+
+#. Key:	3EFB75CB4826A331794E8EACB6C2E03C
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ContactShadowsSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ContactShadowsSetting.OptionDescription
+msgctxt ",3EFB75CB4826A331794E8EACB6C2E03C"
+msgid "Enable Contact Shadows to add subtle shadowing in areas that would not be covered by standard shadow maps, such as small geometry or grass.\r\n \r\nThis setting has minimal impact on performances."
+msgstr "启用接触阴影可在标准阴影贴图未覆盖的区域（如细小几何体或草丛）添加细腻阴影。\r\n \r\n此设置对性能影响极小。"
+
+#. Key:	51E2B80A4B76B0C15CD99A9C8AC20580
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ContactShadowsSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ContactShadowsSetting.OptionTitle
+msgctxt ",51E2B80A4B76B0C15CD99A9C8AC20580"
+msgid "Contact Shadows"
+msgstr "接触阴影"
+
+#. Key:	A360F95A499F2F34736CD48BE0924771
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.DisplayCategory.Name
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.DisplayCategory.Name
+msgctxt ",A360F95A499F2F34736CD48BE0924771"
+msgid "Display"
+msgstr "显示"
+
+#. Key:	2436A21B418041247B3F3CBCCC6FB2B0
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.EffectsAudioSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.EffectsAudioSetting.OptionDescription
+msgctxt ",2436A21B418041247B3F3CBCCC6FB2B0"
+msgid "Adjust the volume for the in-game effects."
+msgstr "调整游戏内特效音效的音量。"
+
+#. Key:	CF3900B743BB4BEE55CC3C95DA784F9E
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.EffectsAudioSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.EffectsAudioSetting.OptionTitle
+msgctxt ",CF3900B743BB4BEE55CC3C95DA784F9E"
+msgid "Effects Audio Volume"
+msgstr "特效音效音量"
+
+#. Key:	5BF0A38044787ACB4C9630A37801C583
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.EffectsSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.EffectsSetting.OptionDescription
+msgctxt ",5BF0A38044787ACB4C9630A37801C583"
+msgid "Adjust the quality of visual effects such as particles."
+msgstr "调整粒子等视觉效果的质量。"
+
+#. Key:	4734EAD04A70A27CD4FF2DAE95998244
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.EffectsSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.EffectsSetting.OptionTitle
+msgctxt ",4734EAD04A70A27CD4FF2DAE95998244"
+msgid "Effects Quality"
+msgstr "特效质量"
+
+#. Key:	2FDA168F46B19D287F89D3B9558A7F8E
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.FoliageSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.FoliageSetting.OptionDescription
+msgctxt ",2FDA168F46B19D287F89D3B9558A7F8E"
+msgid "Adjust the quality and density of foliage."
+msgstr "调整植被的质量和密度。"
+
+#. Key:	98EB71D94AFAD6A51D9360ABD8E67A81
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.FoliageSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.FoliageSetting.OptionTitle
+msgctxt ",98EB71D94AFAD6A51D9360ABD8E67A81"
+msgid "Foliage Quality"
+msgstr "植被质量"
+
+#. Key:	D58BE2A94C970B32C9D5708322D56B55
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.FramerateLimitSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.FramerateLimitSetting.OptionDescription
+msgctxt ",D58BE2A94C970B32C9D5708322D56B55"
+msgid "Adjust the framerate limit to the specified value between 30 and 200 fps. \r\n\r\nValues lower than 30 will remove the framerate limit.\r\nVSync must be disabled if you want to adjust the Framerate Limit manually.  "
+msgstr "将帧率限制调整为30至200帧之间的指定值。\r\n\r\n低于30的值将取消帧率限制。\r\n若需手动调整帧率限制，需关闭垂直同步。"
+
+#. Key:	79AA54A940593CA2336473904BA332F6
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.FramerateLimitSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.FramerateLimitSetting.OptionTitle
+msgctxt ",79AA54A940593CA2336473904BA332F6"
+msgid "Framerate Limit"
+msgstr "帧率限制"
+
+#. Key:	118FFCD646008963B0A516A555C4E792
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.FramerateVideoCategory.Name
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.FramerateVideoCategory.Name
+msgctxt ",118FFCD646008963B0A516A555C4E792"
+msgid "Framerate"
+msgstr "帧率"
+
+#. Key:	1FC0715C4EE0A461C908678B2CC5BC40
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadBrandSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadBrandSetting.OptionDescription
+msgctxt ",1FC0715C4EE0A461C908678B2CC5BC40"
+msgid "Adjust the icons that should be displayed based on the selected gamepad type."
+msgstr "根据所选手柄类型调整应显示的图标。"
+
+#. Key:	47D953B8451C6047D8F5A6A55AC21AE3
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadBrandSetting.OptionsValues(0).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadBrandSetting.OptionsValues(0).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",47D953B8451C6047D8F5A6A55AC21AE3"
+msgid "Type A"
+msgstr "类型A"
+
+#. Key:	F56BC8BE49CFFE9AB4609293B6ACF487
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadBrandSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadBrandSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",F56BC8BE49CFFE9AB4609293B6ACF487"
+msgid "Type B"
+msgstr "类型B"
+
+#. Key:	4F5BD4054FE0FEB88CC2D9B14445FD84
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadBrandSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadBrandSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",4F5BD4054FE0FEB88CC2D9B14445FD84"
+msgid "Type C"
+msgstr "类型C"
+
+#. Key:	0BE5CB7648627406CDEC4C929302307F
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadBrandSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadBrandSetting.OptionTitle
+msgctxt ",0BE5CB7648627406CDEC4C929302307F"
+msgid "Gamepad Icons"
+msgstr "手柄图标"
+
+#. Key:	74E2A2404EDD6831762E75AD7A80AC5B
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadCameraSensivitySetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadCameraSensivitySetting.OptionDescription
+msgctxt ",74E2A2404EDD6831762E75AD7A80AC5B"
+msgid "Adjust the sensitivity of camera movements when using a gamepad."
+msgstr "调整使用手柄时的镜头移动灵敏度。"
+
+#. Key:	60AE297C441EE8FDABE1D4A71119E893
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadCameraSensivitySetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GamepadCameraSensivitySetting.OptionTitle
+msgctxt ",60AE297C441EE8FDABE1D4A71119E893"
+msgid "Gamepad Camera Sensitivity"
+msgstr "手柄镜头灵敏度"
+
+#. Key:	80EE8B0440D8493ED776F08DE75015D7
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GammaSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GammaSetting.OptionDescription
+msgctxt ",80EE8B0440D8493ED776F08DE75015D7"
+msgid "Adjust the global brightness of the game."
+msgstr "调整游戏全局亮度。"
+
+#. Key:	250637844FA513BAFBED39939D3415C9
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GammaSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GammaSetting.OptionTitle
+msgctxt ",250637844FA513BAFBED39939D3415C9"
+msgid "Gamma"
+msgstr "伽马值"
+
+#. Key:	B051883342FD63A9236A698173715854
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GlobalIlluminationSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GlobalIlluminationSetting.OptionDescription
+msgctxt ",B051883342FD63A9236A698173715854"
+msgid "Adjust the quality of the Global Illumination. \r\n\r\nLumen High and Ultra offer better visual quality with ray-traced global illumination but have a larger impact to performances than DFAO."
+msgstr "调整全局光照质量。\r\n\r\nLumen高和极致模式通过光线追踪全局光照提供更佳画质，但对性能的影响大于DFAO。"
+
+#. Key:	0E82A9F74CB981ED2886ADAA04229B28
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GlobalIlluminationSetting.OptionsValues(0).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GlobalIlluminationSetting.OptionsValues(0).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",0E82A9F74CB981ED2886ADAA04229B28"
+msgid "DFAO Low"
+msgstr "DFAO低"
+
+#. Key:	BD0788FC47F52459CD9626BC4F629CCF
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GlobalIlluminationSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GlobalIlluminationSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",BD0788FC47F52459CD9626BC4F629CCF"
+msgid "DFAO High"
+msgstr "DFAO高"
+
+#. Key:	0E1016DF4DF57A2764A68D8AABB87DA1
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GlobalIlluminationSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GlobalIlluminationSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",0E1016DF4DF57A2764A68D8AABB87DA1"
+msgid "Lumen High"
+msgstr "Lumen高"
+
+#. Key:	3CA9FED84EF9EBECEF63A8884AAD01BB
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GlobalIlluminationSetting.OptionsValues(3).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GlobalIlluminationSetting.OptionsValues(3).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",3CA9FED84EF9EBECEF63A8884AAD01BB"
+msgid "Lumen Ultra"
+msgstr "Lumen极致"
+
+#. Key:	18216EDE48091DB3CED43DAB9EC3E201
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GlobalIlluminationSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GlobalIlluminationSetting.OptionTitle
+msgctxt ",18216EDE48091DB3CED43DAB9EC3E201"
+msgid "Global Illumination Quality"
+msgstr "全局光照质量"
+
+#. Key:	57BD40644EE27C27FABE57A9926F346F
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GraphicsPresetSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GraphicsPresetSetting.OptionDescription
+msgctxt ",57BD40644EE27C27FABE57A9926F346F"
+msgid "Select a graphics quality preset to quickly adjust all the graphics settings to the desired value."
+msgstr "选择图形质量预设以快速将所有图形设置调整至所需值。"
+
+#. Key:	5EA43D5141C35B7A168B00B80ACD1E3E
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GraphicsPresetSetting.OptionsValues(4).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GraphicsPresetSetting.OptionsValues(4).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",5EA43D5141C35B7A168B00B80ACD1E3E"
+msgid "Custom"
+msgstr "自定义"
+
+#. Key:	AFB882984D26BB5BDFFBD7A487ED1C29
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GraphicsPresetSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.GraphicsPresetSetting.OptionTitle
+msgctxt ",AFB882984D26BB5BDFFBD7A487ED1C29"
+msgid "Graphics Preset"
+msgstr "图形预设"
+
+#. Key:	4DD9AABA42DBAFBD718A95BCD97EACE5
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HardwareLumenSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HardwareLumenSetting.OptionDescription
+msgctxt ",4DD9AABA42DBAFBD718A95BCD97EACE5"
+msgid "Enable Hardware Ray Tracing for higher quality Lumen Global Illumination and Reflections. \r\n\r\nThis setting has a large impact on performances and require compatible hardware."
+msgstr "启用硬件光线追踪以获得更高质量的Lumen全局光照和反射效果。\r\n\r\n此设置对性能影响较大且需要兼容的硬件。"
+
+#. Key:	9D5E22C4430B58D4FB458BB3EEC8830D
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HardwareLumenSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HardwareLumenSetting.OptionTitle
+msgctxt ",9D5E22C4430B58D4FB458BB3EEC8830D"
+msgid "Hardware Ray-Tracing Lumen"
+msgstr "硬件光线追踪Lumen"
+
+#. Key:	5F254B61467F4483842D5FA674E8ACF8
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HeaderBtns.TabsDefinition(0).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HeaderBtns.TabsDefinition(0).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",5F254B61467F4483842D5FA674E8ACF8"
+msgid "Video"
+msgstr "视频"
+
+#. Key:	F4C585794F861A9A3F4E2C89252BE7DC
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HeaderBtns.TabsDefinition(1).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HeaderBtns.TabsDefinition(1).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",F4C585794F861A9A3F4E2C89252BE7DC"
+msgid "Graphics"
+msgstr "图形"
+
+#. Key:	B6546E2442DC15A8E57433B8DE3FFB2F
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HeaderBtns.TabsDefinition(2).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HeaderBtns.TabsDefinition(2).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",B6546E2442DC15A8E57433B8DE3FFB2F"
+msgid "Gameplay"
+msgstr "游戏性"
+
+#. Key:	0E81B73E493C7DA86179968018FE1FB2
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HeaderBtns.TabsDefinition(3).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HeaderBtns.TabsDefinition(3).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",0E81B73E493C7DA86179968018FE1FB2"
+msgid "Controls"
+msgstr "控制"
+
+#. Key:	825D0CDE4B49D392BCBD3FAA3B0F737B
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HeaderBtns.TabsDefinition(4).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.HeaderBtns.TabsDefinition(4).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",825D0CDE4B49D392BCBD3FAA3B0F737B"
+msgid "Audio"
+msgstr "音频"
+
+#. Key:	BEDB52BF427BC55067DF2EAFDB8FC48A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ImageVideoCategory.Name
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ImageVideoCategory.Name
+msgctxt ",BEDB52BF427BC55067DF2EAFDB8FC48A"
+msgid "Image"
+msgstr "图像"
+
+#. Key:	2D4C6E464C4EA05FCA88A28BA2C9F348
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.InvertXAxisSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.InvertXAxisSetting.OptionDescription
+msgctxt ",2D4C6E464C4EA05FCA88A28BA2C9F348"
+msgid "Enable the inverted camera controls for the X-Axis (left/right)."
+msgstr "启用X轴（左右）反转镜头控制。"
+
+#. Key:	6BD6B254426543E328D740874E721BC7
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.InvertXAxisSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.InvertXAxisSetting.OptionTitle
+msgctxt ",6BD6B254426543E328D740874E721BC7"
+msgid "Invert X-Axis"
+msgstr "反转X轴"
+
+#. Key:	635F6DCA4D9006B301B880A5DAD6D646
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.InvertYAxisSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.InvertYAxisSetting.OptionDescription
+msgctxt ",635F6DCA4D9006B301B880A5DAD6D646"
+msgid "Enable the inverted camera controls for the Y-Axis (up/down)."
+msgstr "启用Y轴（上下）反转镜头控制。"
+
+#. Key:	198960E94FA3D974DDC86CB73315FD2D
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.InvertYAxisSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.InvertYAxisSetting.OptionTitle
+msgctxt ",198960E94FA3D974DDC86CB73315FD2D"
+msgid "Invert Y-Axis"
+msgstr "反转Y轴"
+
+#. Key:	E90A119C4EF04999E3FB0EB983D40CA5
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.LanguageSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.LanguageSetting.OptionDescription
+msgctxt ",E90A119C4EF04999E3FB0EB983D40CA5"
+msgid "Adjust the language of the game."
+msgstr "调整游戏语言。"
+
+#. Key:	4554708143F014740E9781A72D6DB4AE
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.LanguageSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.LanguageSetting.OptionTitle
+msgctxt ",4554708143F014740E9781A72D6DB4AE"
+msgid "Language"
+msgstr "语言"
+
+#. Key:	962D128149F6E870030BF098144D27F1
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.LightingCategory.Name
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.LightingCategory.Name
+msgctxt ",962D128149F6E870030BF098144D27F1"
+msgid "Lighting"
+msgstr "光照"
+
+#. Key:	97690C3D47E3E1154F50D5A2909FEEC8
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.MasterAudioSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.MasterAudioSetting.OptionDescription
+msgctxt ",97690C3D47E3E1154F50D5A2909FEEC8"
+msgid "Adjust the volume of all the sounds in the game."
+msgstr "调整游戏中所有音效的音量。"
+
+#. Key:	0B4E69884D12FEB6B9CE6DA3DFCF6F19
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.MasterAudioSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.MasterAudioSetting.OptionTitle
+msgctxt ",0B4E69884D12FEB6B9CE6DA3DFCF6F19"
+msgid "Master Volume"
+msgstr "主音量"
+
+#. Key:	CA3748334CDC5150D2751FAA2CA076FD
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.MotionBlurSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.MotionBlurSetting.OptionDescription
+msgctxt ",CA3748334CDC5150D2751FAA2CA076FD"
+msgid "Adjust the quality and amount of motion blur displayed on screen. \r\n\r\nThis setting has minimal impact on performances and is recomended to smooth lower framerates."
+msgstr "调整屏幕上显示的运动模糊质量与强度。\r\n\r\n此设置对性能影响极小，建议开启以平滑较低帧率。"
+
+#. Key:	4F8CDB534C8855AE09A7A1A53228269E
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.MotionBlurSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.MotionBlurSetting.OptionTitle
+msgctxt ",4F8CDB534C8855AE09A7A1A53228269E"
+msgid "Motion Blur"
+msgstr "动态模糊"
+
+#. Key:	365AE64F4A56796AB52C67A70E4F42AE
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.MusicAudioSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.MusicAudioSetting.OptionDescription
+msgctxt ",365AE64F4A56796AB52C67A70E4F42AE"
+msgid "Adjust the volume for the musics of the game."
+msgstr "调整游戏背景音乐音量。"
+
+#. Key:	DC9DC70E4B27B38BDEDC3FB43D5DF986
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.MusicAudioSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.MusicAudioSetting.OptionTitle
+msgctxt ",DC9DC70E4B27B38BDEDC3FB43D5DF986"
+msgid "Music Volume"
+msgstr "音乐音量"
+
+#. Key:	4AA245BE41AA42B2F21F618C63754AC2
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.OthersGraphicsCategory.Name
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.OthersGraphicsCategory.Name
+msgctxt ",4AA245BE41AA42B2F21F618C63754AC2"
+msgid "Other"
+msgstr "其他"
+
+#. Key:	2A8F1E0F4166F63CB92BE09479844BC7
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.PostProcessSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.PostProcessSetting.OptionDescription
+msgctxt ",2A8F1E0F4166F63CB92BE09479844BC7"
+msgid "Adjust the quality of post processing effects. \r\n\r\nThis setting has minimal impact on performances."
+msgstr "调整后期处理效果质量。\r\n\r\n此设置对性能影响极小。"
+
+#. Key:	F727A88E46C984B56901279663CE8EDB
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.PostProcessSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.PostProcessSetting.OptionTitle
+msgctxt ",F727A88E46C984B56901279663CE8EDB"
+msgid "Post Processing Quality"
+msgstr "后期处理质量"
+
+#. Key:	4DF50149421FBD034543D5BFD7EF443A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ReflectionsSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ReflectionsSetting.OptionDescription
+msgctxt ",4DF50149421FBD034543D5BFD7EF443A"
+msgid "Adjust the quality of the Reflections.\r\n\r\nLumen High and Ultra offer better visual quality with ray-traced reflections but have a larger impact to performancs than the Screen Space Reflections options. \r\n\r\nGlobal Illumination must be set to Lumen High or better for the Lumen Reflections to work."
+msgstr "调整反射效果质量。\r\n\r\nLumen高和超高选项通过光线追踪反射提供更佳画质，但比屏幕空间反射选项更消耗性能。\r\n\r\n需将全局光照设为Lumen高或更优级别才能使Lumen反射生效。"
+
+#. Key:	ECA88E984BF6CB29C8042884D8079C04
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ReflectionsSetting.OptionsValues(0).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ReflectionsSetting.OptionsValues(0).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",ECA88E984BF6CB29C8042884D8079C04"
+msgid "SSR Low"
+msgstr "SSR低"
+
+#. Key:	38A0DF8842D27BB25F58669C2368ADD6
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ReflectionsSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ReflectionsSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",38A0DF8842D27BB25F58669C2368ADD6"
+msgid "SSR High"
+msgstr "SSR高"
+
+#. Key:	E2F69DE54B3A6A9D80A132BBAAC17336
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ReflectionsSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ReflectionsSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",E2F69DE54B3A6A9D80A132BBAAC17336"
+msgid "Lumen High"
+msgstr "Lumen高"
+
+#. Key:	13C89B4C41E9B3B550D58D9A9634692B
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ReflectionsSetting.OptionsValues(3).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ReflectionsSetting.OptionsValues(3).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",13C89B4C41E9B3B550D58D9A9634692B"
+msgid "Lumen Ultra"
+msgstr "Lumen超高"
+
+#. Key:	920130574A1EC4B4912AECB11B5594F0
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ReflectionsSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ReflectionsSetting.OptionTitle
+msgctxt ",920130574A1EC4B4912AECB11B5594F0"
+msgid "Reflections Quality"
+msgstr "反射质量"
+
+#. Key:	1892400E415E655B40CA008FB4E4DBEC
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ResolutionScaleSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ResolutionScaleSetting.OptionDescription
+msgctxt ",1892400E415E655B40CA008FB4E4DBEC"
+msgid "Adjust the internal render resolution scale of the game.\r\n\r\nAnti Aliasing Method must be set to Off, FXAA or TAA and Upscaling Method to Off in order to adjust the resolution scale manually."
+msgstr "调整游戏内部渲染分辨率缩放比例。\r\n\r\n需将抗锯齿方法设为关闭/FXAA/TAA且升频方法设为关闭才能手动调整分辨率缩放。"
+
+#. Key:	504C08EE4BB20AA03863E1AD110EA94D
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ResolutionScaleSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ResolutionScaleSetting.OptionTitle
+msgctxt ",504C08EE4BB20AA03863E1AD110EA94D"
+msgid "Resolution Scale"
+msgstr "分辨率缩放"
+
+#. Key:	C03783AA4EAC4D742262F5A6ACC622D2
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ResolutionSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ResolutionSetting.OptionDescription
+msgctxt ",C03783AA4EAC4D742262F5A6ACC622D2"
+msgid "Adjust the displayed resolution of the game.\r\n\r\nWindow Mode must be set to Full Screen or Windowed to be able to change the displayed resolution of the game."
+msgstr "调整游戏显示分辨率。\r\n\r\n需将窗口模式设为全屏或窗口化才能更改游戏显示分辨率。"
+
+#. Key:	058FDA70458069D710BCD48BFB7D4C1A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ResolutionSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ResolutionSetting.OptionTitle
+msgctxt ",058FDA70458069D710BCD48BFB7D4C1A"
+msgid "Resolution"
+msgstr "分辨率"
+
+#. Key:	7C175CB84AEDF65CA5A246BF049A2F4D
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.RunBenchmarkButton.ButtonActionText
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.RunBenchmarkButton.ButtonActionText
+msgctxt ",7C175CB84AEDF65CA5A246BF049A2F4D"
+msgid "Run Benchmark"
+msgstr "运行基准测试"
+
+#. Key:	E0F4FE35466A651541D61AA85FB31CC8
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.RunBenchmarkButton.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.RunBenchmarkButton.OptionDescription
+msgctxt ",E0F4FE35466A651541D61AA85FB31CC8"
+msgid "Run a short benchmark to get detail about the performances of your computer during gameplay with the selected graphics settings. "
+msgstr "运行简短基准测试，获取当前图形设置下电脑运行性能的详细数据。"
+
+#. Key:	D0137FFD4C259D7008EFABBA10C9229E
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.RunBenchmarkButton.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.RunBenchmarkButton.OptionTitle
+msgctxt ",D0137FFD4C259D7008EFABBA10C9229E"
+msgid "Game Benchmark"
+msgstr "游戏基准测试"
+
+#. Key:	5BA3A951492E5D0A7C2BD3892B547B5D
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ShadingSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ShadingSetting.OptionDescription
+msgctxt ",5BA3A951492E5D0A7C2BD3892B547B5D"
+msgid "Adjust the shading quality of materials."
+msgstr "调整材质着色质量。"
+
+#. Key:	E8E70A474D04E1693707419C2D94D5AE
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ShadingSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ShadingSetting.OptionTitle
+msgctxt ",E8E70A474D04E1693707419C2D94D5AE"
+msgid "Shading Quality"
+msgstr "着色质量"
+
+#. Key:	BF3FB0BC49B0206025A273A69830ED3F
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ShadowsCategory.Name
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ShadowsCategory.Name
+msgctxt ",BF3FB0BC49B0206025A273A69830ED3F"
+msgid "Shadows"
+msgstr "阴影"
+
+#. Key:	9ECF5C3F43F786FDB07739B8FCA27E16
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ShadowsSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ShadowsSetting.OptionDescription
+msgctxt ",9ECF5C3F43F786FDB07739B8FCA27E16"
+msgid "Adjust the quality of the shadows and their draw distance. \r\n\r\nThis setting can has a large impact on performances at its highest option. \r\nIt is not recommended to set it to Ultra with Virtual Shadow Maps enabled."
+msgstr "调整阴影质量及绘制距离。\r\n\r\n最高选项对性能影响较大。\r\n启用虚拟阴影贴图时不建议设为超高。"
+
+#. Key:	3ADB53EF41FE5FE1F28363B3534880E5
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ShadowsSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ShadowsSetting.OptionTitle
+msgctxt ",3ADB53EF41FE5FE1F28363B3534880E5"
+msgid "Shadows Quality"
+msgstr "阴影质量"
+
+#. Key:	7A144C434674387AEE4B32A30A70DC7D
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesEffectsCategory.Name
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesEffectsCategory.Name
+msgctxt ",7A144C434674387AEE4B32A30A70DC7D"
+msgid "Textures & Effects"
+msgstr "纹理与特效"
+
+#. Key:	C1096665464C3272B509F19748E5713E
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesFilteringSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesFilteringSetting.OptionDescription
+msgctxt ",C1096665464C3272B509F19748E5713E"
+msgid "Adjust the quality of texture filtering. Higher quality settings reduces blur when viewing textures at an angle.\r\n\r\nThis setting has minimal impact to performances."
+msgstr "调整纹理过滤质量。更高质量可减少斜视角观看纹理时的模糊感。\r\n\r\n此设置对性能影响极小。"
+
+#. Key:	46289A444E7614A3EF30BABC44D5B3DC
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesFilteringSetting.OptionsValues(0).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesFilteringSetting.OptionsValues(0).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",46289A444E7614A3EF30BABC44D5B3DC"
+msgid "2x Anisotropic"
+msgstr "2x各向异性"
+
+#. Key:	BDDEB1FC4C12955EDD1C57BB4CAFD9DE
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesFilteringSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesFilteringSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",BDDEB1FC4C12955EDD1C57BB4CAFD9DE"
+msgid "4x Anisotropic"
+msgstr "4x各向异性"
+
+#. Key:	3569D23649696C444609D4BE3A782748
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesFilteringSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesFilteringSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",3569D23649696C444609D4BE3A782748"
+msgid "8x Anisotropic"
+msgstr "8x各向异性"
+
+#. Key:	47C4D4C849AA7D94CC14BCAADC6BB595
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesFilteringSetting.OptionsValues(3).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesFilteringSetting.OptionsValues(3).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",47C4D4C849AA7D94CC14BCAADC6BB595"
+msgid "16x Anisotropic"
+msgstr "16x各向异性"
+
+#. Key:	8A36FF8D41C6E02FC194A2B4D4DAF70D
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesFilteringSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesFilteringSetting.OptionTitle
+msgctxt ",8A36FF8D41C6E02FC194A2B4D4DAF70D"
+msgid "Textures Filtering"
+msgstr "纹理过滤"
+
+#. Key:	F2079B9D4CCED55369C9D790DE7B3375
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesSetting.OptionDescription
+msgctxt ",F2079B9D4CCED55369C9D790DE7B3375"
+msgid "Adjust the quality of textures that are allowed to be loaded into the video memory of your graphics card. \r\n\r\nThis setting has minimal impact to performances and won’t have a visual impact if you graphics card has enough video memory. "
+msgstr "调整可加载至显卡显存的纹理质量。\r\n\r\n此设置对性能影响极小，若显卡显存充足则不会影响画质。"
+
+#. Key:	295DEA604277CC494DA67EA18F3163A2
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.TexturesSetting.OptionTitle
+msgctxt ",295DEA604277CC494DA67EA18F3163A2"
+msgid "Textures Quality"
+msgstr "纹理质量"
+
+#. Key:	DF5B99134EC9EC9B96C7179862F14B69
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UIAudioSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UIAudioSetting.OptionDescription
+msgctxt ",DF5B99134EC9EC9B96C7179862F14B69"
+msgid "Adjust the volume for sounds played by the User Interface."
+msgstr "调整用户界面音效音量。"
+
+#. Key:	EC526C524089FA540DA80D89004BD017
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UIAudioSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UIAudioSetting.OptionTitle
+msgctxt ",EC526C524089FA540DA80D89004BD017"
+msgid "UI Effects Volume"
+msgstr "UI音效音量"
+
+#. Key:	DA27389D4208A23FC55770A20A9D0F6F
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleMethodSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleMethodSetting.OptionDescription
+msgctxt ",DA27389D4208A23FC55770A20A9D0F6F"
+msgid "Select the upscaling method used by the game to improve performances at a minimal impact to visuals. "
+msgstr "选择游戏使用的升频方法，在最小化画质损失的前提下提升性能。"
+
+#. Key:	4B6A29E047D41E1C41FEDEAB405F421D
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleMethodSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleMethodSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",4B6A29E047D41E1C41FEDEAB405F421D"
+msgid "TSR"
+msgstr "TSR"
+
+#. Key:	2A75EA6242B4E6078ECD3185D5293BE8
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleMethodSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleMethodSetting.OptionTitle
+msgctxt ",2A75EA6242B4E6078ECD3185D5293BE8"
+msgid "Upscaling Method"
+msgstr "升频方法"
+
+#. Key:	3C3565474F327145FEB8828D48FBC0FF
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleQualitySetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleQualitySetting.OptionDescription
+msgctxt ",3C3565474F327145FEB8828D48FBC0FF"
+msgid "Select the quality to performance balance of the choosen upscaling method. \r\n\r\nHigher quality options will offer better image quality but a smaller performance gain while higher performance options will offer greater performances but with a more degraded image quality.  "
+msgstr "选择当前升频方法的画质与性能平衡方案。\r\n\r\n高质量选项图像更优但性能提升较小，高性能选项帧数更高但画质损失更明显。"
+
+#. Key:	647B06CD43F01270FC4B2EBAEA63DF2B
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleQualitySetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleQualitySetting.OptionTitle
+msgctxt ",647B06CD43F01270FC4B2EBAEA63DF2B"
+msgid "Upscaling Quality"
+msgstr "升频质量"
+
+#. Key:	A00985904C02345A077F37BD84990117
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleSharpnessSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleSharpnessSetting.OptionDescription
+msgctxt ",A00985904C02345A077F37BD84990117"
+msgid "Adjust the sharpness applied to the image.  "
+msgstr "调整图像锐化强度。"
+
+#. Key:	241F080642FDAACA1E2243A2F92DE6E5
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleSharpnessSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscaleSharpnessSetting.OptionTitle
+msgctxt ",241F080642FDAACA1E2243A2F92DE6E5"
+msgid "Image Sharpness"
+msgstr "图像锐度"
+
+#. Key:	945A7BC8437D37B39646B1B3AB3AA6E0
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscalingCategory.Name
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.UpscalingCategory.Name
+msgctxt ",945A7BC8437D37B39646B1B3AB3AA6E0"
+msgid "Upscaling & AA"
+msgstr "升频与抗锯齿"
+
+#. Key:	121E447748E9BAE00AC3D4881035EDAC
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ViewDistanceSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ViewDistanceSetting.OptionDescription
+msgctxt ",121E447748E9BAE00AC3D4881035EDAC"
+msgid "Adjust the view distance of objects in the world. "
+msgstr "调整场景中物体的可视距离。"
+
+#. Key:	0EE557484772016AF7C446BCA831685F
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ViewDistanceSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.ViewDistanceSetting.OptionTitle
+msgctxt ",0EE557484772016AF7C446BCA831685F"
+msgid "View Distance"
+msgstr "视距"
+
+#. Key:	71D52E5245D54AED94F10787A3681757
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VolumetricsSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VolumetricsSetting.OptionDescription
+msgctxt ",71D52E5245D54AED94F10787A3681757"
+msgid "Adjust the quality and resolution of volumetrics effects such as volumetric fog. \r\n\r\nThis setting can have a large impact on performances at its highest option."
+msgstr "调整体积效果（如体积雾）的质量与分辨率。\r\n\r\n最高选项可能显著影响性能。"
+
+#. Key:	DEDAD5EB4E9D380F57561B99B1FC30D8
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VolumetricsSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VolumetricsSetting.OptionTitle
+msgctxt ",DEDAD5EB4E9D380F57561B99B1FC30D8"
+msgid "Volumetric Effects Quality"
+msgstr "体积效果质量"
+
+#. Key:	182B31EB4536351606BD1E97F68EA5AC
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSMShadowsSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSMShadowsSetting.OptionDescription
+msgctxt ",182B31EB4536351606BD1E97F68EA5AC"
+msgid "Enable Virtual Shadow Maps for more accurate and higher resolution shadows with greater draw distances.\r\n \r\nThis setting has a large impact on performances thus using Ultra Shadows Quality is not recommended with Virtual Shadow Maps.  "
+msgstr "启用虚拟阴影贴图以获得更精确、更高分辨率及更远绘制距离的阴影。\r\n\r\n此设置对性能影响较大，因此启用虚拟阴影贴图时不建议使用超高阴影质量。"
+
+#. Key:	94D2BC124674573F022C49BDAE17335A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSMShadowsSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSMShadowsSetting.OptionTitle
+msgctxt ",94D2BC124674573F022C49BDAE17335A"
+msgid "Virtual Shadow Maps"
+msgstr "虚拟阴影贴图"
+
+#. Key:	3C12E83246F57BD8D490C29F6FFF3765
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSyncSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSyncSetting.OptionDescription
+msgctxt ",3C12E83246F57BD8D490C29F6FFF3765"
+msgid "Select the VSync mode used by the game. \r\n\r\nThe options are dependent of your monitor's refresh rate: 1/1 option will enable vsync at your maximum refresh rate. 1/2 will enable vsync at half your monitor’s refresh rate, and so on. "
+msgstr "选择游戏使用的垂直同步模式。\r\n\r\n可选选项取决于显示器刷新率：1/1选项将以最大刷新率启用垂直同步，1/2将以显示器刷新率的一半启用垂直同步，以此类推。"
+
+#. Key:	482163AE48FBA5B537BC728920E22FAB
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSyncSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSyncSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",482163AE48FBA5B537BC728920E22FAB"
+msgid "1/1"
+msgstr "1/1"
+
+#. Key:	A20745984E9338970D00AA98E9304B1A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSyncSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSyncSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",A20745984E9338970D00AA98E9304B1A"
+msgid "1/2"
+msgstr "1/2"
+
+#. Key:	AC7B077242FD3CC5EAF277AB64F4776A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSyncSetting.OptionsValues(3).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSyncSetting.OptionsValues(3).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",AC7B077242FD3CC5EAF277AB64F4776A"
+msgid "1/3"
+msgstr "1/3"
+
+#. Key:	5E00EAA4469001D7E02B4D9EA29BAD55
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSyncSetting.OptionsValues(4).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSyncSetting.OptionsValues(4).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",5E00EAA4469001D7E02B4D9EA29BAD55"
+msgid "1/4"
+msgstr "1/4"
+
+#. Key:	9ADAC2AF459C972788FF7297DB5F4B84
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSyncSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.VSyncSetting.OptionTitle
+msgctxt ",9ADAC2AF459C972788FF7297DB5F4B84"
+msgid "VSync"
+msgstr "垂直同步"
+
+#. Key:	9E2260D84C6258FF8FFB5EB20C1CD0BF
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.WindowModeSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.WindowModeSetting.OptionDescription
+msgctxt ",9E2260D84C6258FF8FFB5EB20C1CD0BF"
+msgid "Select the window mode used by the game. "
+msgstr "选择游戏使用的窗口模式。"
+
+#. Key:	F3509A104F7673042E4EECA706611998
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.WindowModeSetting.OptionsValues(0).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.WindowModeSetting.OptionsValues(0).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",F3509A104F7673042E4EECA706611998"
+msgid "Full Screen"
+msgstr "全屏"
+
+#. Key:	D8D263F54AC1E9DF3BF4FC9BC4469091
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.WindowModeSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.WindowModeSetting.OptionsValues(1).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",D8D263F54AC1E9DF3BF4FC9BC4469091"
+msgid "Borderless"
+msgstr "无边框"
+
+#. Key:	35E3D1494DD3B59F1950C093FE494E2B
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.WindowModeSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.WindowModeSetting.OptionsValues(2).OptionsValues.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",35E3D1494DD3B59F1950C093FE494E2B"
+msgid "Windowed"
+msgstr "窗口化"
+
+#. Key:	8C7E5A474F088DD93B14A1AA7D0EF3D2
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.WindowModeSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyOptionsMenu/Core/WBP_EasyOptionsMenuMain.WBP_EasyOptionsMenuMain_C:WidgetTree.WindowModeSetting.OptionTitle
+msgctxt ",8C7E5A474F088DD93B14A1AA7D0EF3D2"
+msgid "Window Mode"
+msgstr "窗口模式"
+
+#. Key:	F875B3D24382F1A7A6F9128089B55474
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/PhotoGallery/WBP_EPM_Gallery.WBP_EPM_Gallery_C:WidgetTree.LocateFolderButton.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/PhotoGallery/WBP_EPM_Gallery.WBP_EPM_Gallery_C:WidgetTree.LocateFolderButton.Text
+msgctxt ",F875B3D24382F1A7A6F9128089B55474"
+msgid "Locate Folder"
+msgstr "定位文件夹"
+
+#. Key:	E4F88029401ACFD23C68C79FEDDCF878
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/PhotoGallery/WBP_EPM_Gallery.WBP_EPM_Gallery_C:WidgetTree.NoPhotosText.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/PhotoGallery/WBP_EPM_Gallery.WBP_EPM_Gallery_C:WidgetTree.NoPhotosText.Text
+msgctxt ",E4F88029401ACFD23C68C79FEDDCF878"
+msgid "No Photos Found"
+msgstr "未找到照片"
+
+#. Key:	BDBB039C4DEFD0DA43DB498F803755B8
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/PhotoGallery/WBP_EPM_Gallery.WBP_EPM_Gallery_C:WidgetTree.ShowFullscreenBtn.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/PhotoGallery/WBP_EPM_Gallery.WBP_EPM_Gallery_C:WidgetTree.ShowFullscreenBtn.Text
+msgctxt ",BDBB039C4DEFD0DA43DB498F803755B8"
+msgid "Show Fullscreen"
+msgstr "显示全屏"
+
+#. Key:	01AF4A7749B7CA1068F5A383EE4CCBF5
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/PhotoGallery/WBP_EPM_Gallery.WBP_EPM_Gallery_C:WidgetTree.TitleText.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/PhotoGallery/WBP_EPM_Gallery.WBP_EPM_Gallery_C:WidgetTree.TitleText.Text
+msgctxt ",01AF4A7749B7CA1068F5A383EE4CCBF5"
+msgid "Gallery"
+msgstr "相册"
+
+#. Key:	26086B5044FF93D4989349A8479F0DB5
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/PhotoModeSettings/WBP_EPM_PhotoModeSettingsMaster.Default__WBP_EPM_PhotoModeSettingsMaster_C.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/PhotoModeSettings/WBP_EPM_PhotoModeSettingsMaster.Default__WBP_EPM_PhotoModeSettingsMaster_C.OptionTitle
+msgctxt ",26086B5044FF93D4989349A8479F0DB5"
+msgid "Default"
+msgstr "默认"
+
+#. Key:	0207DA09402ED983EABA4C83E11F3EE8
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:ExecuteUbergraph_WBP_EasyPhotoMode [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:ExecuteUbergraph_WBP_EasyPhotoMode [Script Bytecode]
+msgctxt ",0207DA09402ED983EABA4C83E11F3EE8"
+msgid "Do you really want to close the photo mode ?\r\nAll modifications will be lost."
+msgstr "确定要退出拍照模式吗？\r\n所有修改都将丢失。"
+
+#. Key:	8105DE60435EB001092AFFBA0BBC0581
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ApertureSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ApertureSetting.OptionDescription
+msgctxt ",8105DE60435EB001092AFFBA0BBC0581"
+msgid "Adjust the aperture of the camera sensor. Lowering this value will create a more visible depth of field effect."
+msgstr "调整相机传感器的光圈值。降低该值将产生更明显的景深效果。"
+
+#. Key:	89FDF4AF41622C64A7183E88DC50F757
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ApertureSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ApertureSetting.OptionTitle
+msgctxt ",89FDF4AF41622C64A7183E88DC50F757"
+msgid "Aperture"
+msgstr "光圈"
+
+#. Key:	76BF2CFE41F0F3E89C025AA12CF96E84
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.BrightnessSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.BrightnessSetting.OptionDescription
+msgctxt ",76BF2CFE41F0F3E89C025AA12CF96E84"
+msgid "Adjust the overall brightness of the scene."
+msgstr "调整场景的整体亮度。"
+
+#. Key:	E0D09B9649504125F8BB3B907E65FCF5
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.BrightnessSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.BrightnessSetting.OptionTitle
+msgctxt ",E0D09B9649504125F8BB3B907E65FCF5"
+msgid "Brightness"
+msgstr "亮度"
+
+#. Key:	E52BD8EB42819C7496BFE09D56BC57B7
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.CameraRollSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.CameraRollSetting.OptionDescription
+msgctxt ",E52BD8EB42819C7496BFE09D56BC57B7"
+msgid "Adjust the roll of the camera."
+msgstr "调整相机旋转角度。"
+
+#. Key:	8CCD6186413DB838BD2C5B95D4EB3054
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.CameraRollSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.CameraRollSetting.OptionTitle
+msgctxt ",8CCD6186413DB838BD2C5B95D4EB3054"
+msgid "Camera Roll"
+msgstr "相机旋转"
+
+#. Key:	413D662244E9381197C0AD872498B126
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ChromaticAberration.Name
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ChromaticAberration.Name
+msgctxt ",413D662244E9381197C0AD872498B126"
+msgid "Chromatic Aberration"
+msgstr "色差"
+
+#. Key:	89CA71434A787C321384F3A6FCB210A6
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ChromaticAberrationIntensity.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ChromaticAberrationIntensity.OptionDescription
+msgctxt ",89CA71434A787C321384F3A6FCB210A6"
+msgid "Adjust the intensity of the chromatic aberration effect."
+msgstr "调整色差效果的强度。"
+
+#. Key:	364A3C18416D8A477A2AD1A930B4A29D
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ChromaticAberrationIntensity.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ChromaticAberrationIntensity.OptionTitle
+msgctxt ",364A3C18416D8A477A2AD1A930B4A29D"
+msgid "Intensity"
+msgstr "强度"
+
+#. Key:	B20E1DA5483B7C5CB19EECB4A4D07312
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ChromaticAberrationStartOffset.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ChromaticAberrationStartOffset.OptionDescription
+msgctxt ",B20E1DA5483B7C5CB19EECB4A4D07312"
+msgid "Offset the start of the chromatic aberration effect on screen."
+msgstr "偏移屏幕上色差效果的起始位置。"
+
+#. Key:	B4863B464AF88D336EC8088CC787311C
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ChromaticAberrationStartOffset.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ChromaticAberrationStartOffset.OptionTitle
+msgctxt ",B4863B464AF88D336EC8088CC787311C"
+msgid "Start Offset"
+msgstr "起始偏移"
+
+#. Key:	BE0B7958434ACF04CB9FC2B52A0597F6
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.CloseMenuInput.TextToDisplay
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.CloseMenuInput.TextToDisplay
+msgctxt ",BE0B7958434ACF04CB9FC2B52A0597F6"
+msgid "Exit"
+msgstr "退出"
+
+#. Key:	4CB5576B4C4F6E272DC5FA9A71083095
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.CloseMenuInput_1.TextToDisplay
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.CloseMenuInput_1.TextToDisplay
+msgctxt ",4CB5576B4C4F6E272DC5FA9A71083095"
+msgid "Exit"
+msgstr "退出"
+
+#. Key:	CCEE43B4466A7C492CC0E1AD8C1F1F7F
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ColorTempSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ColorTempSetting.OptionDescription
+msgctxt ",CCEE43B4466A7C492CC0E1AD8C1F1F7F"
+msgid "Adjust the color temperature of the scene."
+msgstr "调整场景的色温。"
+
+#. Key:	E621CC6A4094ADDB0C2CD1B530BC19AF
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ColorTempSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ColorTempSetting.OptionTitle
+msgctxt ",E621CC6A4094ADDB0C2CD1B530BC19AF"
+msgid "Color Temperature"
+msgstr "色温"
+
+#. Key:	B4687FAA4B5A98E24E03609FD82E06A9
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ColorTintSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ColorTintSetting.OptionDescription
+msgctxt ",B4687FAA4B5A98E24E03609FD82E06A9"
+msgid "Shift the color tint of the scene."
+msgstr "偏移场景的色调。"
+
+#. Key:	5C51F70142ABCF2C235770B8D999EFC7
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ColorTintSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ColorTintSetting.OptionTitle
+msgctxt ",5C51F70142ABCF2C235770B8D999EFC7"
+msgid "Color Tint"
+msgstr "色调"
+
+#. Key:	087B5EC646CBE1BED5349CAB0C38D2A2
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ConstrainAspectRatioSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ConstrainAspectRatioSetting.OptionDescription
+msgctxt ",087B5EC646CBE1BED5349CAB0C38D2A2"
+msgid "Display black bars on the sides of the screen to match the aspect ratio defined by the sensor dimensions."
+msgstr "在屏幕两侧显示黑边以匹配传感器尺寸定义的长宽比。"
+
+#. Key:	72FEFBA643A2A07ACE412B9E8084E4F6
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ConstrainAspectRatioSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ConstrainAspectRatioSetting.OptionTitle
+msgctxt ",72FEFBA643A2A07ACE412B9E8084E4F6"
+msgid "Constraint Aspect Ratio"
+msgstr "约束长宽比"
+
+#. Key:	E205433B4FA848A083D3B7AECC6FFD12
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ContrastSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ContrastSetting.OptionDescription
+msgctxt ",E205433B4FA848A083D3B7AECC6FFD12"
+msgid "Adjust the contrast of colors."
+msgstr "调整色彩对比度。"
+
+#. Key:	1C4F3C4C477FFA7D30D837B814736C4A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ContrastSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ContrastSetting.OptionTitle
+msgctxt ",1C4F3C4C477FFA7D30D837B814736C4A"
+msgid "Contrast"
+msgstr "对比度"
+
+#. Key:	75085294447C5DB28518A89153335DC9
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.EditionOptionsHeader.TabsDefinition(0).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.EditionOptionsHeader.TabsDefinition(0).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",75085294447C5DB28518A89153335DC9"
+msgid "Image Adjustements"
+msgstr "图像调整"
+
+#. Key:	FA479C0D46F594DBAE2FEA8AC1AC079F
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.EditionOptionsHeader.TabsDefinition(1).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.EditionOptionsHeader.TabsDefinition(1).TabsDefinition.TextDisplayName_14_5FB6CD4044A8AAB157DB6A9BD93DFE59
+msgctxt ",FA479C0D46F594DBAE2FEA8AC1AC079F"
+msgid "Camera Adjustements"
+msgstr "相机调整"
+
+#. Key:	DA3771F24E99C5EA36A3809A3323E325
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.EditPhotoInput.TextToDisplay
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.EditPhotoInput.TextToDisplay
+msgctxt ",DA3771F24E99C5EA36A3809A3323E325"
+msgid "Edit Photo"
+msgstr "编辑照片"
+
+#. Key:	DF22FBB6451AD8BCFDC10A8B4FE70D77
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.FocalLengthSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.FocalLengthSetting.OptionDescription
+msgctxt ",DF22FBB6451AD8BCFDC10A8B4FE70D77"
+msgid "Adjust the length of the camera focal."
+msgstr "调整相机焦距长度。"
+
+#. Key:	EE0C13544D5FAFCEF7FE76AB426A81DD
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.FocalLengthSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.FocalLengthSetting.OptionTitle
+msgctxt ",EE0C13544D5FAFCEF7FE76AB426A81DD"
+msgid "Focal Length"
+msgstr "焦距"
+
+#. Key:	B357A8324F7C58D3624BD2A284606695
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.FocusDistanceSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.FocusDistanceSetting.OptionDescription
+msgctxt ",B357A8324F7C58D3624BD2A284606695"
+msgid "Adjust the distance of the focus point."
+msgstr "调整对焦点的距离。"
+
+#. Key:	85B6D12A46C95AC73D6CB1B9D042EA10
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.FocusDistanceSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.FocusDistanceSetting.OptionTitle
+msgctxt ",85B6D12A46C95AC73D6CB1B9D042EA10"
+msgid "Focus Distance"
+msgstr "对焦距离"
+
+#. Key:	BF8757DF442DCC66A6FF6AAB4E93F1A2
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.FocusLocationInput.TextToDisplay
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.FocusLocationInput.TextToDisplay
+msgctxt ",BF8757DF442DCC66A6FF6AAB4E93F1A2"
+msgid "Focus Location"
+msgstr "对焦位置"
+
+#. Key:	49F511E54A6981B3529490956C63FA97
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.GrainSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.GrainSetting.OptionDescription
+msgctxt ",49F511E54A6981B3529490956C63FA97"
+msgid "Adjust the intensity of film grain added to the image."
+msgstr "调整添加到图像中的胶片颗粒强度。"
+
+#. Key:	96AE0A4A4B07CB14D4EC83BF358F5553
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.GrainSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.GrainSetting.OptionTitle
+msgctxt ",96AE0A4A4B07CB14D4EC83BF358F5553"
+msgid "Film Grain"
+msgstr "胶片颗粒"
+
+#. Key:	E84F51E943925A673DC1F9A02F412565
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.HideUIInput.TextToDisplay
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.HideUIInput.TextToDisplay
+msgctxt ",E84F51E943925A673DC1F9A02F412565"
+msgid "Hide UI"
+msgstr "隐藏界面"
+
+#. Key:	2C8705C840C1BF6D9BAFE38AF9665C83
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.LocatePhotoInput.TextToDisplay
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.LocatePhotoInput.TextToDisplay
+msgctxt ",2C8705C840C1BF6D9BAFE38AF9665C83"
+msgid "Open Gallery"
+msgstr "打开相册"
+
+#. Key:	3E12F1014EB3023E0C970D8C01478CC0
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.LookInput.Text to Display
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.LookInput.Text to Display
+msgctxt ",3E12F1014EB3023E0C970D8C01478CC0"
+msgid "Look"
+msgstr "视角"
+
+#. Key:	DAE3C7F44AB795DEA7AA5E9B282262FE
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.MoveCameraInput.TextToDisplay
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.MoveCameraInput.TextToDisplay
+msgctxt ",DAE3C7F44AB795DEA7AA5E9B282262FE"
+msgid "Move Camera"
+msgstr "移动相机"
+
+#. Key:	C5B2519F4D5CBC30043E63990E16ACEF
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.MovementInput.Text to Display
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.MovementInput.Text to Display
+msgctxt ",C5B2519F4D5CBC30043E63990E16ACEF"
+msgid "Move"
+msgstr "移动"
+
+#. Key:	E5A406F04FAE06CF2E53C7B2A9394CC0
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ResetInput.TextToDisplay
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ResetInput.TextToDisplay
+msgctxt ",E5A406F04FAE06CF2E53C7B2A9394CC0"
+msgid "Reset"
+msgstr "重置"
+
+#. Key:	3E47D0CB4A3721BA5369C6A8785F8FE7
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ResolutionMultiplierSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ResolutionMultiplierSetting.OptionDescription
+msgctxt ",3E47D0CB4A3721BA5369C6A8785F8FE7"
+msgid "Adjust the resolution of the exported photo, multiplied by the monitor's resolution. "
+msgstr "调整导出照片的分辨率，该值为显示器分辨率的倍数。"
+
+#. Key:	76B2E2544A123B92EF3E908A717A2FF3
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ResolutionMultiplierSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.ResolutionMultiplierSetting.OptionTitle
+msgctxt ",76B2E2544A123B92EF3E908A717A2FF3"
+msgid "Export Resolution Scale"
+msgstr "导出分辨率比例"
+
+#. Key:	EF58702F4024903B0FED09A94B9C164F
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SaturationSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SaturationSetting.OptionDescription
+msgctxt ",EF58702F4024903B0FED09A94B9C164F"
+msgid "Adjust the saturation of colors."
+msgstr "调整色彩饱和度。"
+
+#. Key:	3F063B104772DB79B72CF48586065E0B
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SaturationSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SaturationSetting.OptionTitle
+msgctxt ",3F063B104772DB79B72CF48586065E0B"
+msgid "Saturation"
+msgstr "饱和度"
+
+#. Key:	5B8CCEA1423AE25D0B5640A3701EBB78
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SensorHeightSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SensorHeightSetting.OptionDescription
+msgctxt ",5B8CCEA1423AE25D0B5640A3701EBB78"
+msgid "Adjust the height of the camera sensor in millimeters."
+msgstr "以毫米为单位调整相机传感器高度。"
+
+#. Key:	EEB3AED3429B9FDA1CB2F0B30A876FDD
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SensorHeightSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SensorHeightSetting.OptionTitle
+msgctxt ",EEB3AED3429B9FDA1CB2F0B30A876FDD"
+msgid "Sensor Height"
+msgstr "传感器高度"
+
+#. Key:	A69373BE46C55399C18315B142559A55
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SensorWidthSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SensorWidthSetting.OptionDescription
+msgctxt ",A69373BE46C55399C18315B142559A55"
+msgid "Adjust the width of the camera sensor in millimeters."
+msgstr "以毫米为单位调整相机传感器宽度。"
+
+#. Key:	9863992149A4D158A635AA9D49B0D045
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SensorWidthSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SensorWidthSetting.OptionTitle
+msgctxt ",9863992149A4D158A635AA9D49B0D045"
+msgid "Sensor Width"
+msgstr "传感器宽度"
+
+#. Key:	BDE2323D4AD093D865BF498E279617FB
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SharpnessSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SharpnessSetting.OptionDescription
+msgctxt ",BDE2323D4AD093D865BF498E279617FB"
+msgid "Adjust the sharpness of the image."
+msgstr "调整图像锐度。"
+
+#. Key:	EF28BD204B1CCE9AE7ADA79B81EAC32E
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SharpnessSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.SharpnessSetting.OptionTitle
+msgctxt ",EF28BD204B1CCE9AE7ADA79B81EAC32E"
+msgid "Sharpness"
+msgstr "锐度"
+
+#. Key:	E3DE462E4B8F5414508F5A97BC6AD9CF
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.TakePhotoInput.TextToDisplay
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.TakePhotoInput.TextToDisplay
+msgctxt ",E3DE462E4B8F5414508F5A97BC6AD9CF"
+msgid "TAKE PHOTO"
+msgstr "拍照"
+
+#. Key:	E2ED4A804A949BC864F5C5B66E55A053
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.VerticalMovementInput.Text to Display
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.VerticalMovementInput.Text to Display
+msgctxt ",E2ED4A804A949BC864F5C5B66E55A053"
+msgid "Up/Down"
+msgstr "上/下"
+
+#. Key:	3D088AE44D60EB24E0E02D879EFA1BD4
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.VignetteSetting.OptionDescription
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.VignetteSetting.OptionDescription
+msgctxt ",3D088AE44D60EB24E0E02D879EFA1BD4"
+msgid "Adjust the vignette effect visible on the edges of the image."
+msgstr "调整图像边缘可见的暗角效果。"
+
+#. Key:	9FC8CB1E4220BCB81DE395A3D5E74E18
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.VignetteSetting.OptionTitle
+#: /Game/ThirdPartyAssets/EasyGameUI/EasyPhotoMode/Core/WBP_EasyPhotoMode.WBP_EasyPhotoMode_C:WidgetTree.VignetteSetting.OptionTitle
+msgctxt ",9FC8CB1E4220BCB81DE395A3D5E74E18"
+msgid "Vignette"
+msgstr "暗角"
+
+#. Key:	1C34D45B4935BB432AD2E4A076CBFC07
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_LoadingScreen.WBP_ESGU_LoadingScreen_C:ExecuteUbergraph_WBP_ESGU_LoadingScreen [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_LoadingScreen.WBP_ESGU_LoadingScreen_C:ExecuteUbergraph_WBP_ESGU_LoadingScreen [Script Bytecode]
+msgctxt ",1C34D45B4935BB432AD2E4A076CBFC07"
+msgid "Loading"
+msgstr "加载中"
+
+#. Key:	683D51EB46FCF3A8E0AA86AC11F580FE
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_LoadingScreen.WBP_ESGU_LoadingScreen_C:ExecuteUbergraph_WBP_ESGU_LoadingScreen [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_LoadingScreen.WBP_ESGU_LoadingScreen_C:ExecuteUbergraph_WBP_ESGU_LoadingScreen [Script Bytecode]
+msgctxt ",683D51EB46FCF3A8E0AA86AC11F580FE"
+msgid "Saving"
+msgstr "保存中"
+
+#. Key:	B6742B594795FA991A569CB35831ACC6
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_LoadingScreen.WBP_ESGU_LoadingScreen_C:ExecuteUbergraph_WBP_ESGU_LoadingScreen [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_LoadingScreen.WBP_ESGU_LoadingScreen_C:ExecuteUbergraph_WBP_ESGU_LoadingScreen [Script Bytecode]
+msgctxt ",B6742B594795FA991A569CB35831ACC6"
+msgid "Tip"
+msgstr "提示"
+
+#. Key:	5A2E839C42B5277DA7947F9485456DA7
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SaveFileCard.WBP_ESGU_SaveFileCard_C:ExecuteUbergraph_WBP_ESGU_SaveFileCard [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SaveFileCard.WBP_ESGU_SaveFileCard_C:ExecuteUbergraph_WBP_ESGU_SaveFileCard [Script Bytecode]
+msgctxt ",5A2E839C42B5277DA7947F9485456DA7"
+msgid "Unknown Version"
+msgstr "未知版本"
+
+#. Key:	3BACC28D46F7FE21D1B4F5BE0113CD98
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+msgctxt ",3BACC28D46F7FE21D1B4F5BE0113CD98"
+msgid "Incompatible Version"
+msgstr "不兼容版本"
+
+#. Key:	4AD85C614FE8FFBAF237C7965E627A01
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+msgctxt ",4AD85C614FE8FFBAF237C7965E627A01"
+msgid "Overwrite"
+msgstr "覆盖"
+
+#. Key:	4DBFA2974822D7A6394816B0BCFD1FDA
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+msgctxt ",4DBFA2974822D7A6394816B0BCFD1FDA"
+msgid "Load"
+msgstr "加载"
+
+#. Key:	5195C26A491705BA02F8F79CB28A59D4
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+msgctxt ",5195C26A491705BA02F8F79CB28A59D4"
+msgid "Do you want to load this save file ?"
+msgstr "是否要加载此存档文件？"
+
+#. Key:	64AD9F624043634179B38496B487FFD0
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+msgctxt ",64AD9F624043634179B38496B487FFD0"
+msgid "Do you really want to overwrite this save file ?\r\nAll saved progress will be lost."
+msgstr "确定要覆盖此存档文件吗？\r\n所有已保存进度都将丢失。"
+
+#. Key:	82CCE8B049CE11291175FB9308598D85
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+msgctxt ",82CCE8B049CE11291175FB9308598D85"
+msgid "Delete"
+msgstr "删除"
+
+#. Key:	B6827BA04A05183528187EAC179C225B
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+msgctxt ",B6827BA04A05183528187EAC179C225B"
+msgid "Save"
+msgstr "保存"
+
+#. Key:	DC9B0D1745F8C84DF6E1E3A775729D7A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+msgctxt ",DC9B0D1745F8C84DF6E1E3A775729D7A"
+msgid "Do you really want to delete this save file ?\r\nThis action is definitive."
+msgstr "确定要删除此存档文件吗？\r\n此操作不可逆。"
+
+#. Key:	E8BF0A7E4517B914B2978CB96883CCD3
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+msgctxt ",E8BF0A7E4517B914B2978CB96883CCD3"
+msgid "Create"
+msgstr "创建"
+
+#. Key:	EC0345A24EF47354B733C494FC0B77E5
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:ExecuteUbergraph_WBP_ESGU_SavesManagerUI [Script Bytecode]
+msgctxt ",EC0345A24EF47354B733C494FC0B77E5"
+msgid "This save file was created with a different game version.\r\nDo you really want to load it ?"
+msgstr "此存档文件由不同游戏版本创建。\r\n确定要加载吗？"
+
+#. Key:	8DC50B6D4DCDE90558B76993944A9847
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:WidgetTree.DeleteSlotBtn.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:WidgetTree.DeleteSlotBtn.Text
+msgctxt ",8DC50B6D4DCDE90558B76993944A9847"
+msgid "Delete"
+msgstr "删除"
+
+#. Key:	A0EA99214AE50A94EEA542A660EC0581
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:WidgetTree.NewSaveButton.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:WidgetTree.NewSaveButton.Text
+msgctxt ",A0EA99214AE50A94EEA542A660EC0581"
+msgid "Create a New Save"
+msgstr "创建新存档"
+
+#. Key:	63FA9FA944D822931F10DDADAEF3423A
+#. SourceLocation:	/Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:WidgetTree.SaveOrLoadBtn.Text
+#: /Game/ThirdPartyAssets/EasyGameUI/EasySaveGameUI/Core/Widgets/WBP_ESGU_SavesManagerUI.WBP_ESGU_SavesManagerUI_C:WidgetTree.SaveOrLoadBtn.Text
+msgctxt ",63FA9FA944D822931F10DDADAEF3423A"
+msgid "Save"
+msgstr "保存"
+
