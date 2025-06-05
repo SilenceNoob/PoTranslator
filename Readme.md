@@ -2,6 +2,9 @@
 
 这是一个使用DeepSeek API自动翻译.po文件的Python工具。
 
+PS: 虚幻引擎的本地化面板，可以导入、导出 .po 文件
+详情可以查阅[官方文档](https://dev.epicgames.com/documentation/zh-cn/unreal-engine/localizing-content-in-unreal-engine)
+
 ## 功能特性
 
 - 自动解析.po文件结构
